@@ -98,7 +98,7 @@ export default function Breast() {
                         </div>
                       </div>
                     </div>
-                    <a href="https://nicepage.com/c/architecture-building-website-templates" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-6" data-image-width={656} data-image-height={864}>

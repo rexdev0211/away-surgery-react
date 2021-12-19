@@ -62,8 +62,8 @@ export const Header = () => {
   return (
     <header className="u-align-center u-clearfix u-header u-sticky u-sticky-b5c6 u-white" id="sec-19d4" style={{ height: '80px' }} data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
       <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-xs u-sheet-1">
-        <a href="https://nicepage.com/k/flask-html-templates" className="u-border-none u-btn u-button-style u-custom-color-1 u-hover-grey-90 u-btn-1">Free Consultation</a>
-        <a href="https://nicepage.com/website-templates" className="u-image u-logo u-image-1" data-image-width={252} data-image-height={44}>
+        <a href="" className="u-border-none u-btn u-button-style u-custom-color-1 u-hover-grey-90 u-btn-1">Free Consultation</a>
+        <a href="" className="u-image u-logo u-image-1" data-image-width={252} data-image-height={44}>
           <img src="images/logo.svg" className="u-logo-image u-logo-image-1" />
         </a>
         <nav className="u-align-center u-dropdown-icon u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-offcanvas-shift u-menu-1" data-responsive-from="SM">
@@ -105,20 +105,21 @@ export const Header = () => {
                 </Link>
               </li>
               <li className="u-nav-item">
-
                 <Link href="/hair">
-
                   <a className="u-border-active-custom-color-1 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-custom-color-2 u-text-hover-grey-90" style={{ padding: 10 }}>
-
                     Hair
-
                   </a>
                 </Link>
               </li>
               <li className="u-nav-item"><a className="u-border-active-custom-color-1 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-custom-color-2 u-text-hover-grey-90" style={{ padding: 10 }}>Face</a>
                 <div className="u-nav-popup" style={{ background: 'white' }}>
                   <ul className="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2">
-                    <li className="u-nav-item"><a className="u-button-style u-hover-custom-color-1 u-nav-link">Brow Lift</a>
+                    <li className="u-nav-item">
+
+                      <Link href="/browlift">
+                        <a className="u-button-style u-hover-custom-color-1 u-nav-link" >Brow Lift
+                        </a>
+                      </Link>
                     </li>
                     <li className="u-nav-item"><a className="u-button-style u-hover-custom-color-1 u-nav-link">Rhinoplasty</a>
                     </li>
@@ -137,6 +138,7 @@ export const Header = () => {
             </ul>
           </div>
           <div className="u-custom-menu u-nav-container-collapse">
+
             <div className="u-align-center u-container-style u-custom-color-1 u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div className="u-inner-container-layout u-sidenav-overflow">
                 <div className="u-menu-close" />

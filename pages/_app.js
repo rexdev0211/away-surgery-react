@@ -3,6 +3,7 @@ import '../styles/Main.css';
 import '../styles/Breast.css';
 import '../styles/Home.css';
 import '../styles/Hair.css';
+import '../styles/BrowLift.css';
 
 function MyApp({ Component, pageProps }) {
   return (

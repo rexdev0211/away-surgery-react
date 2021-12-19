@@ -1,24 +1,20 @@
-export default function Hair() {
+export const BrowLift = () => {
   return (
-    <div className="hair">
+    <div className="browlift">
       <section className="br-section1 u-clearfix u-custom-color-2 u-section-1" id="sec-9a24">
-        <div className="u-clearfix u-sheet u-sheet-1">
+        <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-palette-1-base u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-size-26 u-layout-cell-1">
-                  <div className="u-container-layout u-container-layout-1">
-                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> Life isn’t Perfect, But Your Hair Can Be</h4>
-                    <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Hair Transplant</h2>
-                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-3">
-                      <span className="u-text-custom-color-11">Say YES to Youth!</span> NO to receding hairlines. NO to aging.<br />
-                      <br />The cause in <span className="u-text-custom-color-11">over 90% of hair loss</span> cases is defined as hair loss at the front, top and/or the crown/vertex of the scalp.<br />
-                      <br />The Away Surgery Institute uses tried and tested microsurgery techniques to re-introduce healthy hair into this area and produce a natural-looking hairline.
-                    </p>
+                <div className="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-size-26-lg u-size-26-xl u-size-28-md u-size-28-sm u-size-28-xs u-layout-cell-1">
+                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-sm u-container-layout-1">
+                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> Life is Good When Your Brows Are On Point</h4>
+                    <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Brow Lift</h2>
+                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-3"> A brow lift procedure is most commonly carried out to correct the signs of ageing, in which forehead creases and the descent of the brow has caused a worn-out or aged look.</p>
                     <a href="" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book Online Consultation</a>
                   </div>
                 </div>
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-34 u-image-1" data-image-width={1033} data-image-height={864}>
+                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32-md u-size-32-sm u-size-32-xs u-size-34-lg u-size-34-xl u-image-1" data-image-width={1033} data-image-height={864}>
                   <div className="u-container-layout u-valign-middle-md u-valign-top-xl u-container-layout-2" />
                 </div>
               </div>
@@ -31,15 +27,19 @@ export default function Hair() {
           <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32 u-image-1" data-image-width={671} data-image-height={864}>
+                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32 u-image-1" data-image-width={620} data-image-height={864}>
                   <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-1" />
                 </div>
                 <div className="u-container-style u-layout-cell u-size-28 u-layout-cell-2">
-                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-2">
-                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> What is Hair Transplant?</h4>
-                    <h2 className="u-align-left u-text u-text-2"> Hair transplant is a procedure to move hair to an area that's thin or bald.</h2>
-                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-5 u-text-default-xs u-text-3"><span className="u-icon" /> Hair transplantation through FUE technique is the most popular technique in hair transplant.<br />
-                      <br />It provides very distinctive results. FUE technique depends on extracting hair grafts from donor area that does not affected by baldness genes through using advanced devices to implant them in baldness areas, without harming the scalp, without pain, scars, or wounds.
+                  <div className="u-container-layout u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-valign-middle-xl u-container-layout-2">
+                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> What is Brow Lift?</h4>
+                    <h2 className="u-align-left u-text u-text-2"> Droopy eyebrows and deep wrinkles on your forehead.</h2>
+                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-5 u-text-default-xs u-text-3"> Brow lifting is not just performed for aesthetic reasons. In many cases, the drooping of the brow can affect vision and, therefore, a brow lift procedure can significantly improve the lateral visual field.<br />
+                      <br />Droopy eyebrows and deep wrinkles on your forehead tell so much about your aging story. <br />
+                      <br />They can cause you to look angry, tired, or sleepy when you feel neither. <br />
+                      <br />Tens of thousands of people have brow lift each year.<br />
+                      <br />If you have concerns about having a brow lift, don’t be afraid! You are not alone, and we are here to help you throughout your journey. <br />
+                      <br />Keep in mind that brow lift results won't last forever. As you age your facial skin might begin to droop again. Sun damage also can age your skin.<br />
                     </p>
                     <a href="" className="u-align-left u-border-none u-btn u-button-style u-hover-none u-palette-1-base u-btn-1">Learn More</a>
                   </div>
@@ -50,7 +50,7 @@ export default function Hair() {
         </div>
       </section>
       <section className="u-clearfix u-section-3" id="carousel_8292">
-        <div className="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div className="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-8 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
@@ -64,14 +64,26 @@ export default function Hair() {
                       <div className="u-repeater u-repeater-1">
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-2">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_32.png" alt data-image-width={47} data-image-height={48} />
-                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-5"> Enough healthy hair on your scalp that can be transplanted to the area that needs hair</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-5"> If you are looking for a way to get rid of your sagging eyebrows, deep forehead furrows, pronounced wrinkles and frown lines over the eyes</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-3">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_32.png" alt data-image-width={47} data-image-height={48} />
-                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-6"> Enough healthy hair on your scalp that can be transplanted to the area that needs hair</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-6"> If you want to achieve a more open and alert position to your eyes and face</p>
+                          </div>
+                        </div>
+                        <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                          <div className="u-container-layout u-similar-container u-container-layout-4">
+                            <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-7"> If you are healthy</p>
+                          </div>
+                        </div>
+                        <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                          <div className="u-container-layout u-similar-container u-container-layout-5">
+                            <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                            <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-8"> If you have realistic goals</p>
                           </div>
                         </div>
                       </div>
@@ -79,8 +91,8 @@ export default function Hair() {
                     <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-3" data-image-width={656} data-image-height={864}>
-                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-4" />
+                <div className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-5" data-image-width={656} data-image-height={864}>
+                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-6" />
                 </div>
               </div>
             </div>
@@ -90,85 +102,80 @@ export default function Hair() {
       <section className="u-align-center u-clearfix u-section-4" id="sec-c195">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> What are the Expected Outcomes?</h4>
-          <h2 className="u-align-center-xs u-text u-text-2"> The results of rhinoplasty can be analyzed in three main</h2>
+          <h2 className="u-align-center-xs u-text u-text-2"> The results of Brow Lift can be analyzed in three main</h2>
           <div className="br-section5-3grid u-container-style u-group u-shape-rectangle u-group-1">
             <div className="u-container-layout u-container-layout-1">
               <img alt className="u-align-center u-image u-image-contain u-image-default u-image-1" data-image-width={160} data-image-height={160} src="images/img_28.png" />
               <h3 className="u-align-center u-text u-text-custom-color-2 u-text-3"> Aesthetical Outcomes</h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-4"> Hair transplantation can solve all kinds of aesthetic concerns about your appearance.</p>
-              <div className="u-container-style u-group u-group-2">
-                <div className="u-container-layout u-container-layout-2">
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-5"> Improves self-confidence</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                </div>
-              </div>
-              <div className="u-align-center-xl u-container-style u-group u-group-3">
-                <div className="u-container-layout u-container-layout-3">
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-6"> Your appearance will change drastically with your new hair.</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                </div>
-              </div>
-              <div className="u-container-style u-group u-group-4">
-                <div className="u-container-layout u-container-layout-4">
-                  <p className="u-align-center u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-7"> Hairline which is more dense and natural-looking</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="br-section5-3grid u-align-center u-container-style u-group u-shape-rectangle u-group-5">
-            <div className="u-container-layout u-container-layout-5">
-              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-5" data-image-width={160} data-image-height={160} src="images/img_75.png" />
-              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-8"> Health-related Outcomes</h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-9"> Health-related hair transplant outcomes.&nbsp;</p>
-              <div className="u-align-center u-container-style u-group u-group-6">
-                <div className="u-container-layout u-container-layout-6">
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-10"> Hair helps to protect the scalp from sunburn and cold.</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                </div>
-              </div>
-              <div className="u-align-center u-container-style u-group u-group-7">
-                <div className="u-container-layout u-container-layout-7">
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-11"> You will be more confident when you meet your friends or relatives.</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
+              <p className="u-align-left u-text u-text-custom-color-5 u-text-4"> A brow lift can address your cosmetic issues from the eyes to the hairline.</p>
+              <div className="u-list u-list-1">
+                <div className="u-repeater u-repeater-1">
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-2">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-5"> It improves the most visible signs of aging (deep wrinkles, furrows) around your eyes and forehead.</p>
+                    </div>
+                  </div>
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-3">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-6"> Elevates your eyebrows by lifting the heaviness from your upper eyelids, creating a more vital, open, youthful, and alert look.</p>
+                    </div>
+                  </div>
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-4">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-7"> You look younger and fresher.</p>
+                    </div>
+                  </div>
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-5">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-5" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-8"> Your face is rejuvenated, and unwanted lines and sagging are eliminated.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          <div className="br-section5-3grid u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-group u-shape-rectangle u-group-8">
-            <div className="u-container-layout u-container-layout-8">
-              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-8" data-image-width={160} data-image-height={160} src="images/img_76.png" />
-              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-12"> Psychological Outcomes </h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-13">
-                <span className="u-text-custom-color-3"> Not being happy</span> with your breasts can lead to serious psychological distress.
+          <div className="br-section5-3grid u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-group u-shape-rectangle u-group-2">
+            <div className="u-container-layout u-container-layout-6">
+              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-6" data-image-width={160} data-image-height={160} src="images/img_76.png" />
+              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-9"> Psychological Outcomes </h3>
+              <p className="u-align-left u-text u-text-custom-color-5 u-text-10">
+                <span className="u-text-custom-color-3"> Not being happy</span> with your brow lift can lead to serious psychological distress.
               </p>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-14"> This makes psychological, as important as physical outcomes.</p>
-              <div className="u-container-style u-group u-group-9">
-                <div className="u-container-layout u-container-layout-9">
-                  <p className="u-align-center u-custom-item u-text u-text-custom-color-5 u-text-15"> Expect Improved social, and self-confidence.</p>
-                  <img className="u-image u-image-default u-preserve-proportions u-image-9" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                  <div className="u-align-center u-container-style u-expanded-width u-group u-group-10">
-                    <div className="u-container-layout u-container-layout-10">
-                      <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-16"> More positive self-image.</p>
-                      <img className="u-image u-image-default u-preserve-proportions u-image-10" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
+              <p className="u-align-left u-text u-text-custom-color-5 u-text-11"> This makes psychological, as important as physical outcomes.</p>
+              <div className="u-list u-list-2">
+                <div className="u-repeater u-repeater-2">
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-7">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-12"> Expect Improved social, and self-confidence.</p>
                     </div>
                   </div>
-                  <div className="u-align-center u-container-style u-expanded-width u-group u-group-11">
-                    <div className="u-container-layout u-container-layout-11">
-                      <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-17"> Decreasing depressive symptomatology</p>
-                      <img className="u-image u-image-default u-preserve-proportions u-image-11" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-8">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-8" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-13"> More positive self-image.</p>
                     </div>
                   </div>
-                  <div className="u-align-center u-container-style u-expanded-width u-group u-group-12">
-                    <div className="u-container-layout u-container-layout-12">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-12" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
-                      <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-18"> Alleviating eating disorders</p>
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-9">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-9" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-14"> Decreasing depressive symptomatology</p>
                     </div>
                   </div>
-                  <div className="u-align-center u-container-style u-expanded-width u-group u-group-13">
-                    <div className="u-container-layout u-container-layout-13">
-                      <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-default-xl u-text-19"> Overall better quality of life</p>
-                      <img className="u-image u-image-default u-preserve-proportions u-image-13" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-10">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-10" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-15"> Alleviating eating disorders</p>
+                    </div>
+                  </div>
+                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                    <div className="u-container-layout u-similar-container u-container-layout-11">
+                      <img className="u-image u-image-default u-preserve-proportions u-image-11" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
+                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-16"> Overall better quality of life</p>
                     </div>
                   </div>
                 </div>
@@ -178,16 +185,18 @@ export default function Hair() {
         </div>
       </section>
       <section className="u-clearfix u-section-5" id="carousel_47ec">
-        <div className="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
-          <div className="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
+        <div className="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
+          <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left u-container-style u-image u-layout-cell u-size-30 u-image-1" data-image-width={656} data-image-height={864}>
-                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-1" />
+                <div className="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-align-left-xl u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1">
+                  <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-1">
+                    <img className="u-absolute-hcenter-xl u-expanded-height-lg u-expanded-height-xl u-expanded-width-md u-expanded-width-xs u-image u-image-default u-image-1" src="images/img_89.png" alt data-image-width={656} data-image-height={864} />
+                  </div>
                 </div>
                 <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                  <div className="u-container-layout u-container-layout-2">
-                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do Before the Hair Transplant?</h4>
+                  <div className="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-container-layout-2">
+                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1">What to Do Before the Brow Lift?</h4>
                     <h2 className="u-align-left u-text u-text-2"> Our surgeons ask your medical history and physical examination.</h2>
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> During your online consultation, your surgeon will ask you questions about your medical history.<br />
                       <br />They will also conduct a physical examination. Your surgeon will inform you about everything you need to know before the surgery.<br />
@@ -232,21 +241,23 @@ export default function Hair() {
       </section>
       <section className="u-clearfix u-section-6" id="sec-dd79">
         <div className="u-clearfix u-sheet u-sheet-1">
-          <img className="u-image u-image-contain u-image-default u-image-1" src="images/img_31.svg" alt data-image-width={127} data-image-height={349} />
-          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> How is a Hair Transplant Done?</h4>
+          <img className="u-image u-image-contain u-image-default u-image-1" src="images/img_62.svg" alt data-image-width={127} data-image-height={349} />
+          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> How is a Rhinoplasty Done?</h4>
           <h2 className="u-align-center-xs u-text u-text-2"> Complex surgery customized according to needs and wishes of the patient.</h2>
           <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-container-style u-image u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-image-2" src data-image-width={1083} data-image-height={864}>
+                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-image-2" src data-image-width={1083} data-image-height={864}>
                       <div className="u-container-layout u-valign-middle u-container-layout-1" />
                     </div>
                     <div className="u-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                       <div className="u-container-layout u-valign-middle u-container-layout-2">
                         <h4 className="u-text u-text-3"> Anesthesia</h4>
-                        <p className="u-text u-text-custom-color-5 u-text-4"> This outpatient procedure is typically done with local anesthesia and sedation. Depending on the particular case, it can be performed using general anesthesia.</p>
+                        <p className="u-text u-text-custom-color-5 u-text-4"> Like all kinds of surgery, brow lift requires anesthesia.<br />
+                          <br />Depending on the particular case, it can be performed using general anesthesia.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -262,14 +273,15 @@ export default function Hair() {
                     <div className="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-3" src>
                       <div className="u-container-layout u-valign-middle u-container-layout-3">
                         <h4 className="u-text u-text-5"> Surgery </h4>
-                        <p className="u-text u-text-custom-color-5 u-text-6"> The details of the surgery depend on the patients’ needs and the surgeon’s approach.<br />
-                          <br />Our surgeons perform several different techniques. This surgery would be a customized procedure, dependant on your anatomical characteristics and your desired goals.
+                        <p className="u-text u-text-custom-color-5 u-text-6"> The details of the surgery depend on the patients’ needs and the surgeon’s approach. So, this surgery is a customized procedure.<br />
+                          <br />What’s suitable for you depends on your anatomical characteristics and your desired goals.<br />
+                          <br />Your surgeon will help you to decide which surgical technique will best provide your cosmetic goals. Our surgeons perform different brow lift techniques and most common ones are classic/coronal and endoscopic brow lift.
                         </p>
                       </div>
                     </div>
                     <div className="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-4">
                       <div className="u-container-layout u-container-layout-4">
-                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-default u-image-3" src="images/img_69.png" alt data-image-width={1083} data-image-height={864} />
+                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-3" src="images/img_90.png" alt data-image-width={1083} data-image-height={864} />
                       </div>
                     </div>
                   </div>
@@ -282,14 +294,15 @@ export default function Hair() {
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-30 u-image-4" src data-image-width={1083} data-image-height={864}>
+                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-30 u-image-4" src data-image-width={820} data-image-height={864}>
                       <div className="u-container-layout u-valign-middle u-container-layout-5" />
                     </div>
                     <div className="u-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-6">
-                      <div className="u-container-layout u-valign-middle u-container-layout-6">
-                        <h4 className="u-text u-text-7"> Follicular unit strip surgery </h4>
-                        <p className="u-text u-text-custom-color-5 u-text-8"> The surgeon will remove a strip of skin from the donor area and close the incision with stitches.<br />
-                          <br />They will then use a microscope to separate the donor skin into tiny follicular units that contain one or several hair follicles and insert these units into the desired area.
+                      <div className="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-6">
+                        <h4 className="u-text u-text-7"> Classic/Coronal Brow Lift </h4>
+                        <p className="u-text u-text-custom-color-5 u-text-8"> This technique is now out of fashion because there are improvements with less invasive techniques, but, in some cases, it can be necessary to achieve a patient’s desired goals. Via Coronal Brow Lift, a coronal incision, also known as headband incision, is used behind the hairline, following from ear to ear. <br />
+                          <br />The scars will not be visible. After the incision is made, the skin of the forehead is elevated allowing to remove underlying tissue and to release the muscles. <br />
+                          <br />Then, eyebrows are also elevated, excess skin is excised, and the source of visible creases are smoothened to achieve a more youthful appearance. The incision is closed with sutures, clips, or skin adhesives.
                         </p>
                       </div>
                     </div>
@@ -305,15 +318,17 @@ export default function Hair() {
                   <div className="u-layout-row">
                     <div className="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-7" src>
                       <div className="u-container-layout u-valign-middle u-container-layout-7">
-                        <h4 className="u-text u-text-9"> Follicular unit extraction </h4>
-                        <p className="u-text u-text-custom-color-5 u-text-10"> The surgeon will use a tiny punch tool to remove follicles from the donor area.<br />
-                          <br />Although this procedure will still lead to some scarring, it may be less noticeable, and the person will not usually require stitches.
+                        <h4 className="u-text u-text-9"> Endoscopic Brow Lift </h4>
+                        <p className="u-text u-text-custom-color-5 u-text-10"> Using this method for brow lift surgeries is now quite popular among plastic surgeons. It is less invasive which can often achieve equally desired results when compared to previous techniques.<br />
+                          <br />In this method, a series of short incisions (almost each less than an inch) are made within the scalp and an endoscope (a pencil like thin tube with a camera) and a special instrument is placed through one of the incisions.<br />
+                          <br />This allows the surgeon to have a clear view when correcting and adjusting the muscles and tissues beneath the skin. <br />
+                          <br />Therefore, the surgeon can reposition the muscles, lift underlying tissues and remove excess skin to achieve naturally lifted, smooth and youthful brows. Finally, the incisions are closed with stitches or clips.&nbsp;
                         </p>
                       </div>
                     </div>
                     <div className="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-8">
                       <div className="u-container-layout u-container-layout-8">
-                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-default u-image-5" src="images/img_71.png" alt data-image-width={1083} data-image-height={864} />
+                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-5" src="images/img_92.png" alt data-image-width={820} data-image-height={864} />
                       </div>
                     </div>
                   </div>
@@ -330,9 +345,9 @@ export default function Hair() {
               <div className="u-layout-row">
                 <div className="u-container-style u-layout-cell u-size-29-lg u-size-29-md u-size-29-sm u-size-29-xs u-size-30-xl u-layout-cell-1">
                   <div className="u-container-layout u-container-layout-1">
-                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do After Breast Reduction Surgery?</h4>
+                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do After the Brow Lift?</h4>
                     <h2 className="u-align-left u-text u-text-2"> Clineca will provide you with all the support and guidance you need.</h2>
-                    <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do after the surgery will be explained to you in detail by your surgeon and Clineca will provide you with all the support and guidance you need.<br />
+                    <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do after the surgery will be explained to you in detail by your surgeon and Clineca will provide you with all the support and guidance you need. <br />
                       <br />You will have a complete and detailed list of instructions.
                     </p>
                     <h4 className="u-align-left u-text u-text-4"> The Most Important Instructions</h4>
@@ -340,49 +355,54 @@ export default function Hair() {
                       <div className="u-repeater u-repeater-1">
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-2">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_30.png" alt data-image-width={150} data-image-height={150} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-5"> Do not smoke for at least 2 weeks after the surgery.</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_32.png" alt data-image-width={48} data-image-height={48} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-5"> You will be seen in the next few days for bandages and dressings or drain removal.</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-3">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-6"> Do not take non-steroidal anti-inflammatory medications after the surgery until your surgeon approves using them.</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_32.png" alt data-image-width={48} data-image-height={48} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-6"> When the dressings are removed, you will be able to shower and wash your hair.</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-4">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_30.png" alt data-image-width={150} data-image-height={150} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-7"> Do not blow your nose.</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_32.png" alt data-image-width={48} data-image-height={48} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-7"> Once all the stitches or staples are removed, you can massage your scars when shampooing.</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-5">
                             <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-8"> Avoid strenuous activities.</p>
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-8"> Do not take non-steroidal anti-inflammatory medications after the surgery until your surgeon approves using them.</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-6">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-5" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-9"> Do not let your sunglasses or eyeglasses put pressure on your nose for at least 1 month after the surgery. You can tape your glasses to your forehead.</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-5" src="images/img_32.png" alt data-image-width={48} data-image-height={48} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-9"> Take pain medication and antibiotics prescribed for you by your surgeon.</p>
                           </div>
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-7">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_33.png" alt data-image-width={48} data-image-height={48} />
-                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-10"> Love yourself and show the world how beautiful you are!</p>
+                            <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_32.png" alt data-image-width={48} data-image-height={48} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-10"> You have to rest and sleep with your head elevated.</p>
                           </div>
                         </div>
-
+                        <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                          <div className="u-container-layout u-similar-container u-container-layout-8">
+                            <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/img_33.png" alt data-image-width={50} data-image-height={49} />
+                            <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-11"> And don’t forget to share photos of your new brows!</p>
+                          </div>
+                        </div>
                       </div>
                     </div>
                     <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-layout-cell u-shape-rectangle u-size-30-xl u-size-31-lg u-size-31-md u-size-31-sm u-size-31-xs u-layout-cell-2">
-                  <div className="u-container-layout u-valign-top-lg u-valign-top-xl u-container-layout-11">
-                    <img className="u-align-center-sm u-align-center-xs u-image u-image-contain u-image-default u-image-10" src="images/img_72.png" alt data-image-width={697} data-image-height={1080} />
+                  <div className="u-container-layout u-valign-top-lg u-valign-top-xl u-container-layout-9">
+                    <img className="u-align-center-sm u-align-center-xs u-image u-image-contain u-image-default u-image-8" src="images/img_34.png" alt data-image-width={699} data-image-height={1080} />
                   </div>
                 </div>
               </div>
@@ -390,7 +410,6 @@ export default function Hair() {
           </div>
         </div>
       </section>
-
       <section className="u-clearfix u-custom-color-13 u-section-8" id="sec-ad20">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-1"> What To Expect During A Recovery?</h4>
@@ -559,7 +578,6 @@ export default function Hair() {
           </div>
         </div>
       </section>
-
       <section className="u-align-center u-clearfix u-section-9" id="sec-2f7b">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center-xs u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> Why Clineca?</h4>
@@ -616,14 +634,14 @@ export default function Hair() {
           </div>
           <div className="u-container-style u-group u-group-7">
             <div className="u-container-layout u-container-layout-7">
-              <img className="u-align-left u-hover-feature u-image-contain  u-image u-image-default u-preserve-proportions u-image-7" src="images/img_42.png" alt data-image-width={166} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-7" src="images/img_42.png" alt data-image-width={166} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-15"> No Hidden Costs</h4>
               <p className="u-align-left u-text u-text-default u-text-16"> The price includes fees of the surgeon and the anesthesiologist, operating room expenses, anesthesia, hospitalization, standard tests, medications and medical visits by a nurse.</p>
             </div>
           </div>
           <div className="u-container-style u-group u-group-8">
             <div className="u-container-layout u-container-layout-8">
-              <img className="u-align-left u-hover-feature u-image  u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/img_43.png" alt data-image-width={164} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/img_43.png" alt data-image-width={164} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-17"> All-Inclusive</h4>
               <p className="u-align-left u-text u-text-default u-text-18"> The price includes hotel accommodation (including breakfast), airport transfer, transportation between hotel and hospital before and after the surgery. </p>
               <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE INFO<span style={{ fontSize: '0.75rem' }} />
@@ -632,21 +650,21 @@ export default function Hair() {
           </div>
           <div className="u-container-style u-group u-group-9">
             <div className="u-container-layout u-container-layout-9">
-              <img className="u-align-left u-hover-feature u-image  u-image-contain u-image-default u-preserve-proportions u-image-9" src="images/img_44.png" alt data-image-width={167} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-9" src="images/img_44.png" alt data-image-width={167} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-19"> Visits by Nurses</h4>
               <p className="u-align-left u-text u-text-default u-text-20"> A nurse will visit you every day during your hotel resting to examine you and provide medical care.</p>
             </div>
           </div>
           <div className="u-container-style u-group u-group-10">
             <div className="u-container-layout u-container-layout-10">
-              <img className="u-align-left u-hover-feature u-image  u-image-contain u-image-default u-preserve-proportions u-image-10" src="images/img_46.png" alt data-image-width={164} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-10" src="images/img_46.png" alt data-image-width={164} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-21"> Optional Services &amp; Products </h4>
               <p className="u-align-left u-text u-text-default u-text-22"> Interpreter service, BBL pillow, neck pillow (rhinoplasty), eye mask (rhinoplasty), voltage converter, and others that will enhance your comfort and satisfaction.</p>
             </div>
           </div>
           <div className="u-container-style u-group u-group-11">
             <div className="u-container-layout u-container-layout-11">
-              <img className="u-align-left u-hover-feature u-image  u-image-contain u-image-default u-preserve-proportions u-image-11" src="images/img_45.png" alt data-image-width={165} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-11" src="images/img_45.png" alt data-image-width={165} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-23"> Why Turkey? </h4>
               <p className="u-align-left u-text u-text-default u-text-24"> Turkey is a leading player in medical tourism, now. And İstanbul is the plastic surgery capital of Turkey. İstanbul is also an extremely beautiful touristic city. </p>
               <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE INFO<span style={{ fontSize: '0.75rem' }} />
@@ -675,12 +693,12 @@ export default function Hair() {
                             <p className="u-custom-item u-text u-text-2"> Hair Transplants</p>
                           </div>
                         </div>
-                        <div className="u-align-left u-container-style u-custom-color-11 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
+                        <div className="u-align-left u-container-style u-custom-color-3 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
                           <div className="u-container-layout u-similar-container u-container-layout-4">
                             <p className="u-custom-item u-text u-text-3"> Rhinoplasty</p>
                           </div>
                         </div>
-                        <div className="u-align-left u-container-style u-custom-color-3 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
+                        <div className="u-align-left u-container-style u-custom-color-11 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
                           <div className="u-container-layout u-similar-container u-container-layout-5">
                             <p className="u-custom-item u-text u-text-4"> Brow Lift</p>
                           </div>
@@ -742,9 +760,9 @@ export default function Hair() {
                     <div className="home-page-4-right-card u-container-style u-expanded-width-xs u-group u-shape-rectangle u-group-2">
                       <div className="u-container-layout u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-container-layout-15">
                         <div className="u-align-center-md u-align-center-sm u-align-center-xs u-image u-image-circle u-preserve-proportions u-image-4" alt data-image-width={176} data-image-height={176} />
-                        <h3 className="u-align-center-md u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-default u-text-15"> John Smith </h3>
-                        <p className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-16"> Hair Transplant</p>
-                        <p className="u-text u-text-17"> it really helps me look younger and more confident. You guys are really great at making me look more charming. Thanks for everything</p>
+                        <h3 className="u-align-center-md u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-default u-text-15"> Jane Harris </h3>
+                        <p className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-16"> Brow Lift</p>
+                        <p className="u-text u-text-17"> Language can be a serious problem when you choose to have plastic surgery abroad. I’ve seen many reviews complaining about this. This is why you need to choose your clinic wisely. My surgeon and all the key personnel of the clinic were speaking English fluently. </p>
                       </div>
                     </div>
                     <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-5" src="images/img_48.png" alt data-image-width={50} data-image-height={50} />
@@ -859,17 +877,12 @@ export default function Hair() {
           </div>
         </div>
       </section>
-      <span style={{ height: 64, width: 64, marginLeft: 0, marginRight: 'auto', marginTop: 0, backgroundImage: 'none', right: 20, bottom: 20 }} className="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
+      <span style={{ height: 64, width: 64, marginLeft: 0, marginRight: 'auto', marginTop: 0, right: 20, bottom: 20, backgroundImage: 'none' }} className="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-13" data-href="#">
         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-1d98" /></svg>
         <svg className="u-svg-content" enableBackground="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z" /></svg>
       </span>
     </div>
 
-
-
-
   )
-
 }
-
 

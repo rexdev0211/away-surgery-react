@@ -99,7 +99,7 @@ export default function Home() {
                                 </div>
                                 <div className="u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-list-item u-repeater-item">
                                   <div className="u-container-layout u-similar-container u-container-layout-5">
-                                    <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_56" alt="" data-image-width={83} data-image-height={80} />
+                                    <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_42.png" alt="" data-image-width={83} data-image-height={80} />
                                     <h4 className="u-custom-item u-text u-text-7"> No Hidden Costs<br />
                                     </h4>
                                     <p className="u-custom-item u-text u-text-8"> The price includes all costs related to the surgery. You’ll know what you will pay in advance. Plus, an online consultation with our surgeons is free of charge. </p>
