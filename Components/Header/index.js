@@ -121,7 +121,11 @@ export const Header = () => {
                         </a>
                       </Link>
                     </li>
-                    <li className="u-nav-item"><a className="u-button-style u-hover-custom-color-1 u-nav-link">Rhinoplasty</a>
+                    <li className="u-nav-item">
+                      <Link href="/rhinoplasty">
+                        <a className="u-button-style u-hover-custom-color-1 u-nav-link">Rhinoplasty
+                        </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
