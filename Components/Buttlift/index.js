@@ -18,7 +18,7 @@ export const ButtLift = () => {
                       perfect bikini butt.<br />
                       <br />
                     </p>
-                    <a href="https://nicepage.com/k/adult-website-templates" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book
+                    <a href="" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book
                       Online Consultation</a>
                   </div>
                 </div>
@@ -52,7 +52,7 @@ export const ButtLift = () => {
                       <br />Therefore, body regions that contain too much fat can be directly addressed. <br />
                       <br />At the second stage, the patient’s own fat tissue is transferred into the patient’s butt.&nbsp;
                     </p>
-                    <a href="https://nicepage.com/k/adult-website-templates" className="u-align-left u-border-none u-btn u-button-style u-hover-none u-palette-1-base u-btn-1">Learn
+                    <a href="" className="u-align-left u-border-none u-btn u-button-style u-hover-none u-palette-1-base u-btn-1">Learn
                       More</a>
                   </div>
                 </div>
@@ -85,7 +85,7 @@ export const ButtLift = () => {
                       <br />If some parts of your body have excessive fat that you want to get rid of, and you want to have a
                       larger and rounder butt, BBL may be the ideal treatment for you.
                     </p>
-                    <a href="https://nicepage.com/c/architecture-building-website-templates" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-1" data-image-width={656} data-image-height={864}>
@@ -253,7 +253,7 @@ export const ButtLift = () => {
                         </div>
                       </div>
                     </div>
-                    <a href="https://nicepage.com/c/architecture-building-website-templates" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -436,7 +436,7 @@ export const ButtLift = () => {
                         </div>
                       </div>
                     </div>
-                    <a href="https://nicepage.com/c/architecture-building-website-templates" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-layout-cell u-shape-rectangle u-size-30-xl u-size-31-lg u-size-31-md u-size-31-sm u-size-31-xs u-layout-cell-2">
@@ -658,7 +658,7 @@ export const ButtLift = () => {
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-3"> Fully Equipped Hospitals</h4>
               <p className="u-align-left u-text u-text-default-xl u-text-4"> Surgeries are performed in prestigious fully
                 equipped hospitals in which doctors from all specialties are present.</p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-1">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-1">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -669,7 +669,7 @@ export const ButtLift = () => {
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-5">Free Consultation</h4>
               <p className="u-align-left u-text u-text-default-xl u-text-6"> We provide free online consultation with our
                 surgeons through video chat.</p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-2">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-2">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -688,7 +688,7 @@ export const ButtLift = () => {
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-9"> 5-Star Hotels</h4>
               <p className="u-align-left u-text u-text-default u-text-10"> We provide special discounts in luxurious hotels near
                 the hospital. Considering your comfort, this is very important to us.</p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-3">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-3">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -699,7 +699,7 @@ export const ButtLift = () => {
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-11"> VIP Transportation</h4>
               <p className="u-align-left u-text u-text-default u-text-12"> We provide, via VIP vehicles, airport transfer and
                 transportation between your hotel and the hospital before and after the surgery.</p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-4">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-4">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -727,7 +727,7 @@ export const ButtLift = () => {
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-17"> All-Inclusive</h4>
               <p className="u-align-left u-text u-text-default u-text-18"> The price includes hotel accommodation (including
                 breakfast), airport transfer, transportation between hotel and hospital before and after the surgery. </p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -756,7 +756,7 @@ export const ButtLift = () => {
               <p className="u-align-left u-text u-text-default u-text-24"> Turkey is a leading player in medical tourism, now.
                 And İstanbul is the plastic surgery capital of Turkey. İstanbul is also an extremely beautiful touristic
                 city. </p>
-              <a href="https://nicepage.com/joomla-templates" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE
+              <a href="" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE
                 INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
@@ -844,13 +844,13 @@ export const ButtLift = () => {
                       <div className="u-repeater u-repeater-2">
                         <div className="u-align-left u-container-style u-custom-color-2 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-13">
                           <div className="u-container-layout u-similar-container u-container-layout-15">
-                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/s11_150.png" alt data-image-width={150} data-image-height={150} />
+                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/img_60.png" alt data-image-width={150} data-image-height={150} />
                             <h5 className="u-custom-item u-text u-text-14"> &nbsp; Breast Operation</h5>
                           </div>
                         </div>
                         <div className="u-align-left u-container-style u-custom-color-2 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-14">
                           <div className="u-container-layout u-similar-container u-container-layout-16">
-                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-3" src="images/s10.svg" alt data-image-width={46} data-image-height={72} />
+                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-3" src="images/img_61.svg" alt data-image-width={46} data-image-height={72} />
                             <h5 className="u-custom-item u-text u-text-white u-text-15">Body Operation</h5>
                           </div>
                         </div>
@@ -1076,7 +1076,7 @@ export const ButtLift = () => {
                     <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming patients! Let us make an appointment
                       for your online consultation.</h2>
-                    <a href="https://nicepage.com/k/adult-website-templates" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book
+                    <a href="" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book
                       Online Consultation</a>
                   </div>
                 </div>
