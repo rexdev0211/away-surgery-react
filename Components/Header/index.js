@@ -137,7 +137,12 @@ export const Header = () => {
                   </a>
                 </Link>
               </li>
-              <li className="u-nav-item"><a className="u-border-active-custom-color-1 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-custom-color-2 u-text-hover-grey-90" style={{ padding: 10 }}>Body</a>
+              <li className="u-nav-item">
+                <Link href="/buttlift">
+                  <a className="u-border-active-custom-color-1 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-custom-color-2 u-text-hover-grey-90" style={{ padding: 10 }}>
+                    Body
+                  </a>
+                </Link>
               </li>
             </ul>
           </div>

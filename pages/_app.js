@@ -6,6 +6,7 @@ import '../styles/Hair.css';
 import '../styles/BrowLift.css';
 import '../styles/Rhinoplasty.css';
 import '../styles/Contact.css';
+import '../styles/Buttlift.css';
 
 function MyApp({ Component, pageProps }) {
   return (
