@@ -1,3 +1,5 @@
+import { Caresol } from "../../helpers/caresol"
+
 export const ButtLift = () => {
   return (
 
@@ -864,7 +866,45 @@ export const ButtLift = () => {
                       Our Pantients Say</h4>
                     <h2 className="u-align-left-xl u-text u-text-17"> Don’t just take our word for it but let’s listen to our
                       patients.</h2>
-                    <div data-interval={5000} data-u-ride="carousel" className="br-section5-3grid u-carousel u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1" id="carousel-1143">
+
+                    <Caresol >
+                      <div className="u-carousel-inner" role="listbox" >
+                        <div className="u-align-center u-carousel-item u-container-style u-slide u-carousel-item-2">
+                          <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
+                            <div style={{ display: "flex", flexDirection: 'row' }}>
+                              <img style={{ padding: '5px' }} src="images/img_18.png" alt="caresol-logo" width="80" height="80" />
+                              <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
+                                <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Chiara</h4>
+                                <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Rhinopasty</p>
+                              </div>
+                            </div>
+                            <div>
+                              <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>“Oh, my God! I dont think I hava a whole new appearance. I’m like myself but with a nose where I can breathe through and with a nose I like”</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="u-active u-align-center u-carousel-item u-container-style u-slide u-carousel-item-1">
+                          <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
+                            <div style={{ display: "flex", flexDirection: 'row' }}>
+                              <img style={{ padding: '5px' }} src="images/img_102.png" alt="caresol-logo" width="80" height="80" />
+                              <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
+                                <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Gabriella Williams</h4>
+                                <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Brazilian Butt Lift</p>
+                              </div>
+                            </div>
+                            <div>
+                              <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>As an anxious person, my biggest fear was to be left alone after the
+                                surgery. I read horrible reviews. So I’m aware of how lucky I was. From our first contact to the end
+                                of my recovery, they were always in touch, 7 days and 24 hours....</p>
+                            </div>
+                          </div>
+                        </div>
+
+                      </div>
+                    </Caresol>
+
+
+                    {/* <div data-interval={5000} data-u-ride="carousel" className="br-section5-3grid u-carousel u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-slider u-slider-1" id="carousel-1143">
                       <ol className="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
                         <li data-u-target="#carousel-1143" className="u-active u-grey-30 u-shape-circle" data-u-slide-to={0} style={{ width: 10, height: 10 }} />
                         <li data-u-target="#carousel-1143" className="u-grey-30 u-shape-circle" data-u-slide-to={1} style={{ width: 10, height: 10 }} />
@@ -936,7 +976,10 @@ export const ButtLift = () => {
                           </svg>
                         </span>
                       </a>
-                    </div>
+                    </div> */}
+
+
+
                   </div>
                 </div>
               </div>

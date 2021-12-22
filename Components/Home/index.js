@@ -1,5 +1,7 @@
 // import '../../styles/Home.css';
 
+import { Caresol } from "../../helpers/caresol";
+
 export default function Home() {
 
   return (
@@ -202,7 +204,43 @@ export default function Home() {
                 <div className="u-container-layout u-container-layout-8">
                   <h4 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-7"> Our Pantients Say</h4>
                   <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-8"> Don’t just take our word for it but let’s listen to our patients.</h2>
-                  <div className="home-page-4-right-card u-align-center-sm u-align-center-xs u-container-style u-expanded-width-xs u-group u-shape-rectangle u-group-2">
+                  <Caresol >
+                    <div className="u-carousel-inner" role="listbox" >
+                      <div className="u-align-center u-carousel-item u-container-style u-slide u-carousel-item-2">
+                        <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
+                          <div style={{ display: "flex", flexDirection: 'row' }}>
+                            <img style={{ padding: '5px' }} src="images/img_18.png" alt="caresol-logo" width="80" height="80" />
+                            <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
+                              <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Chiara</h4>
+                              <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Rhinopasty</p>
+                            </div>
+                          </div>
+                          <div>
+                            <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>“Oh, my God! I dont think I hava a whole new appearance. I’m like myself but with a nose where I can breathe through and with a nose I like”</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="u-active u-align-center u-carousel-item u-container-style u-slide u-carousel-item-1">
+                        <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
+                          <div style={{ display: "flex", flexDirection: 'row' }}>
+                            <img style={{ padding: '5px' }} src="images/img_102.png" alt="caresol-logo" width="80" height="80" />
+                            <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
+                              <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Gabriella Williams</h4>
+                              <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Brazilian Butt Lift</p>
+                            </div>
+                          </div>
+                          <div>
+                            <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>As an anxious person, my biggest fear was to be left alone after the
+                              surgery. I read horrible reviews. So I’m aware of how lucky I was. From our first contact to the end
+                              of my recovery, they were always in touch, 7 days and 24 hours...</p>
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+                  </Caresol>
+
+                  {/* <div className="home-page-4-right-card u-align-center-sm u-align-center-xs u-container-style u-expanded-width-xs u-group u-shape-rectangle u-group-2">
                     <div className="u-container-layout u-container-layout-9">
                       <div className="u-align-center-sm u-align-center-xs u-image u-image-circle u-preserve-proportions u-image-4" alt="" data-image-width={88} data-image-height={88} />
                       <h3 className="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-default u-text-9"> Chiara</h3>
@@ -211,7 +249,7 @@ export default function Home() {
                     </div>
                   </div>
                   <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-5" src="images/img_48.png" alt="" data-image-width={50} data-image-height={50} />
-                  <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-6" src="images/img_49.png" alt="" data-image-width={50} data-image-height={50} />
+                  <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-6" src="images/img_49.png" alt="" data-image-width={50} data-image-height={50} /> */}
                   <img className="u-hidden-xs u-image u-image-contain u-image-default u-image-7" src="images/img_62.svg" alt="" data-image-width={127} data-image-height={349} />
                 </div>
               </div>
