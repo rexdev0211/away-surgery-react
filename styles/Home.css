@@ -1,3 +1,18 @@
+/*
+Fort family
+
+*/
+
+@font-face {
+  font-family: Lato;
+  src: url(./fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(./fonts/Poppins-Regular.ttf);
+}
+
 .custom-home .u-section-1 .u-sheet-1 {
   min-height: 929px;
 }
@@ -28,8 +43,14 @@
 .custom-home .u-section-1 .u-btn-1 {
   border-style: none;
   margin: 147px auto 0 0;
+  padding: 16px 40px;
 }
 
+.pink-text{
+/* Pink */
+color: #FF5F7E;
+
+}
 .custom-home .u-section-1 .u-layout-cell-2 {
   min-height: 655px;
 }
@@ -418,7 +439,7 @@
 }
 
 .custom-home .u-section-2 .u-sheet-1 {
-  min-height: 50vw;
+  min-height: 657px;
 }
 
 .custom-home .u-section-2 .u-layout-wrap-1 {

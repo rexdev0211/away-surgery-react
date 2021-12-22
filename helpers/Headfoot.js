@@ -7,7 +7,6 @@ export default function Headfoot({ children }) {
     <>
       <Header />
       {children}
-      <ContactUs />
       <Footer />
     </>
 

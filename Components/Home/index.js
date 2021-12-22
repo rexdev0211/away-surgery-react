@@ -31,7 +31,7 @@ export default function Home() {
               <div className="u-layout-row">
                 <div className="u-container-style u-layout-cell u-shape-rectangle u-size-15-lg u-size-16-xl u-size-19-md u-size-19-sm u-size-19-xs u-layout-cell-3">
                   <div className="u-container-layout u-valign-middle-lg u-container-layout-3">
-                    <h3 className="u-align-center-sm u-align-center-xs u-align-left-md u-text u-text-3"> We are the leading&nbsp;plastic surgery center in the Turkey</h3>
+                    <h3 className="u-align-center-sm u-align-center-xs u-align-left-md u-text u-text-3"><span className="pink-text"> We are the leading</span>&nbsp;plastic surgery center in the Turkey</h3>
                   </div>
                 </div>
                 <div className="u-container-style u-layout-cell u-size-41-md u-size-41-sm u-size-41-xs u-size-44-xl u-size-45-lg u-layout-cell-4">
@@ -200,7 +200,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-              <div className="u-align-center-sm u-align-center-xs u-container-style u-layout-cell u-size-32 u-layout-cell-2">
+              <div className="u-align-center-sm u-align-center-x  s u-container-style u-layout-cell u-size-32 u-layout-cell-2">
                 <div className="u-container-layout u-container-layout-8">
                   <h4 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-7"> Our Pantients Say</h4>
                   <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-8"> Don’t just take our word for it but let’s listen to our patients.</h2>

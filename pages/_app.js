@@ -8,7 +8,7 @@ import '../styles/Rhinoplasty.css';
 import '../styles/Contact.css';
 import '../styles/Buttlift.css';
 import '../styles/caresol.css';
-import '../styles/footer.css';
+import '../styles/Footer.css';
 import '../styles/Slider.css';
 
 function MyApp({ Component, pageProps }) {

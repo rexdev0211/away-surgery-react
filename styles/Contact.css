@@ -1,3 +1,18 @@
+/*
+Fort family
+
+*/
+
+@font-face {
+  font-family: Lato;
+  src: url(./fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(./fonts/Poppins-Regular.ttf);
+}
+
 .contact .u-section-13 {
   min-height: 66px;
 }
@@ -45,7 +60,6 @@
 
 .contact .u-section-13 .u-label-1 {
   font-size: 1.125rem;
-  font-family: Poppins;
   font-weight: 500;
 }
 
@@ -55,7 +69,6 @@
 
 .contact .u-section-13 .u-label-2 {
   font-size: 1.125rem;
-  font-family: Poppins;
   font-weight: 500;
 }
 
@@ -69,7 +82,6 @@
 
 .contact .u-section-13 .u-label-3 {
   font-size: 1.125rem;
-  font-family: Poppins;
   font-weight: 500;
 }
 
@@ -79,7 +91,6 @@
 
 .contact .u-section-13 .u-label-4 {
   font-size: 1.125rem;
-  font-family: Poppins;
   font-weight: 500;
 }
 

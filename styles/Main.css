@@ -6,8 +6,24 @@
  */
 
 
+/*
+Fort family
 
+*/
 
+@font-face {
+  font-family: Lato;
+  src: url(./fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(./fonts/Poppins-Regular.ttf);
+}
+
+html{
+  font-family: Poppins !important;
+}
 
 .fr-clearfix::after {
   clear: both;
@@ -4150,7 +4166,6 @@ span.fr-img-caption.fr-view.fr-dii.fr-fir {
 /*end-commonstyles library*/
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -4262,7 +4277,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family:  Poppins !important;
   font-size: 1em;
 }
 
@@ -5010,7 +5025,7 @@ ol {
 .u-tab-item a,
 .u-nav-item a {
   font-size: inherit;
-  font-family: inherit;
+  font-family: Lato !important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -21878,78 +21893,6 @@ p {
   word-break: break-all;
 }
 
-.u-font-arial.u-custom-font {
-  font-family: Arial, sans-serif !important;
-}
-
-.u-font-courier-new.u-custom-font {
-  font-family: 'Courier New', monospace !important;
-}
-
-.u-font-georgia.u-custom-font {
-  font-family: Georgia, serif !important;
-}
-
-.u-font-roboto.u-custom-font {
-  font-family: Roboto, sans-serif !important;
-}
-
-.u-font-open-sans.u-custom-font {
-  font-family: 'Open Sans', sans-serif !important;
-}
-
-.u-font-lato.u-custom-font {
-  font-family: Lato, sans-serif !important;
-}
-
-.u-font-montserrat.u-custom-font {
-  font-family: Montserrat, sans-serif !important;
-}
-
-.u-font-roboto-condensed.u-custom-font {
-  font-family: 'Roboto Condensed', sans-serif !important;
-}
-
-.u-font-source-sans-pro.u-custom-font {
-  font-family: 'Source Sans Pro', sans-serif !important;
-}
-
-.u-font-oswald.u-custom-font {
-  font-family: Oswald, sans-serif !important;
-}
-
-.u-font-raleway.u-custom-font {
-  font-family: Raleway, sans-serif !important;
-}
-
-.u-font-pt-sans.u-custom-font {
-  font-family: 'PT Sans', sans-serif !important;
-}
-
-.u-font-ubuntu.u-custom-font {
-  font-family: Ubuntu, sans-serif !important;
-}
-
-.u-font-titillium-web.u-custom-font {
-  font-family: 'Titillium Web', sans-serif !important;
-}
-
-.u-font-merriweather.u-custom-font {
-  font-family: Merriweather, serif !important;
-}
-
-.u-font-roboto-slab.u-custom-font {
-  font-family: 'Roboto Slab', serif !important;
-}
-
-.u-font-playfair-display.u-custom-font {
-  font-family: 'Playfair Display', serif !important;
-}
-
-.u-font-lobster.u-custom-font {
-  font-family: Lobster, display !important;
-}
-
 .u-rectangle {
   border-radius: 0;
 }
@@ -25256,19 +25199,6 @@ a.u-button-style.u-border-20 {
   border-radius: 50px !important;
 }
 
-/*begin-variables font-family*/
-.u-body {
-  font-family: 'Open Sans', sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: Roboto, sans-serif;
-}
 
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -25292,11 +25222,8 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans', sans-serif !important;
-}
-
-.u-custom-font.u-heading-font {
-  font-family: Roboto, sans-serif !important;
+  font-family: Lato;
+  font-weight: 400;
 }
 
 /*end-variables font*/
@@ -43437,7 +43364,6 @@ h1:not(.u-title) {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
   font-weight: 600;
 }
 
@@ -43446,7 +43372,6 @@ h2:not(.u-subtitle) {
   line-height: 1.1;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
   font-weight: 600;
 }
 
@@ -43455,7 +43380,6 @@ h3 {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
   font-weight: 500;
 }
 
@@ -43464,7 +43388,6 @@ h4 {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
   font-weight: 500;
 }
 
@@ -43474,7 +43397,6 @@ h5 {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
 }
 
 h6 {
@@ -43483,7 +43405,6 @@ h6 {
   line-height: 1.2;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Poppins;
 }
 
 p.u-large-text {
@@ -43513,6 +43434,7 @@ p:not(.u-text-variant) {
   letter-spacing: 1px;
   font-family: Lato, sans-serif;
   font-weight: 700;
+  padding: 16px 40px;
 }
 
 blockquote {
@@ -44129,6 +44051,7 @@ blockquote {
 }
 
 .u-header .u-btn-1 {
+  font-weight: Lato !important;
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
@@ -44136,7 +44059,7 @@ blockquote {
   background-image: none;
   font-size: 0.875rem;
   margin: 25px 218px 0 auto;
-  padding: 10px 24px 10px 22px;
+  padding: 16px 28px 16px 28px;
 }
 
 .u-header .u-image-1 {
@@ -44186,6 +44109,7 @@ blockquote {
 .u-header .u-container-layout-1 {
   padding-top: 0;
   padding-bottom: 0;
+  font-family: Lato !important;
 }
 
 .u-header .u-group-2 {
