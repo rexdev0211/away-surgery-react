@@ -1,266 +1,329 @@
-.my-footer .u-section-13 .u-sheet-1 {
-  min-height: 318px;
+.mz-footer {
+  min-height: 285px;
 }
 
-.my-footer .u-section-13 .u-layout-wrap-1 {
-  margin-top: 24px;
-  margin-bottom: 0;
+.mz-footer .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 23px auto 0;
 }
 
-.my-footer .u-section-13 .u-layout-cell-1 {
-  min-height: 187px;
+.mz-footer .u-layout-cell-1 {
+  min-height: 179px;
 }
 
-.my-footer .u-section-13 .u-container-layout-1 {
-  padding: 20px 30px;
+.mz-footer .u-container-layout-1 {
+  padding: 20px 10px;
 }
 
-.my-footer .u-section-13 .u-text-1 {
+.mz-footer .u-text-1 {
+  position: relative;
+  width: auto;
   font-size: 1.5625rem;
   margin: 5px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-2 {
+.mz-footer .u-text-2 {
+  position: relative;
+  width: auto;
   font-size: 1.125rem;
   margin: 20px 0 0;
 }
 
-.my-footer .u-section-13 .u-layout-cell-2 {
-  min-height: 224px;
+.mz-footer .u-layout-cell-2 {
+  min-height: 179px;
 }
 
-.my-footer .u-section-13 .u-container-layout-2 {
-  padding: 20px 30px;
+.mz-footer .u-container-layout-2 {
+  padding: 20px 10px;
 }
 
-.my-footer .u-section-13 .u-text-3 {
+.mz-footer .u-text-3 {
+  position: relative;
+  width: auto;
   font-size: 1.125rem;
   margin: 0;
 }
 
-.my-footer .u-section-13 .u-text-4 {
+.mz-footer .u-text-4 {
+  position: relative;
   font-size: 0.875rem;
+  width: auto;
+  margin: 15px 0 0;
+}
+
+.mz-footer .u-text-5 {
+  text-align: left;
+  font-size: 0.875rem;
+  width: auto;
   margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-5 {
+.mz-footer .u-text-6 {
   text-align: left;
   font-size: 0.875rem;
   margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-6 {
-  text-align: left;
-  font-size: 0.875rem;
-  margin: 10px 0 0;
+.mz-footer .u-layout-cell-3 {
+  min-height: 179px;
 }
 
-.my-footer .u-section-13 .u-layout-cell-3 {
-  min-height: 224px;
+.mz-footer .u-container-layout-3 {
+  padding: 20px 10px;
 }
 
-.my-footer .u-section-13 .u-container-layout-3 {
-  padding: 20px 30px;
-}
-
-.my-footer .u-section-13 .u-text-7 {
+.mz-footer .u-text-7 {
   font-size: 1.125rem;
   margin: 0;
 }
 
-.my-footer .u-section-13 .u-text-8 {
+.mz-footer .u-text-8 {
   font-size: 0.875rem;
   margin: 12px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-9 {
+.mz-footer .u-text-9 {
   text-align: left;
   font-size: 0.875rem;
   margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-10 {
+.mz-footer .u-text-10 {
   text-align: left;
   font-size: 0.875rem;
   margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-layout-cell-4 {
-  min-height: 224px;
+.mz-footer .u-layout-cell-4 {
+  min-height: 179px;
 }
 
-.my-footer .u-section-13 .u-container-layout-4 {
-  padding: 20px;
+.mz-footer .u-container-layout-4 {
+  padding: 20px 10px;
 }
 
-.my-footer .u-section-13 .u-text-11 {
+.mz-footer .u-text-11 {
   font-size: 1.125rem;
   width: 104px;
-  margin: 0 13px 0 0;
+  margin: 0;
 }
 
-.my-footer .u-section-13 .u-text-12 {
+.mz-footer .u-text-12 {
   background-image: none;
-  margin: 10px 27px 0 0;
+  margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-13 {
-  background-image: none;
-  text-align: left;
-  margin: 10px 27px 0 0;
-}
-
-.my-footer .u-section-13 .u-text-14 {
+.mz-footer .u-text-13 {
   background-image: none;
   text-align: left;
-  margin: 10px 27px 0 0;
+  margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-layout-cell-5 {
-  min-height: 224px;
+.mz-footer .u-text-14 {
+  background-image: none;
+  text-align: left;
+  margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-container-layout-5 {
-  padding: 20px 30px;
+.mz-footer .u-layout-cell-5 {
+  min-height: 179px;
 }
 
-.my-footer .u-section-13 .u-text-15 {
+.mz-footer .u-container-layout-5 {
+  padding: 20px 10px;
+}
+
+.mz-footer .u-text-15 {
   font-size: 1.125rem;
   margin: 0;
 }
 
-.my-footer .u-section-13 .u-text-16 {
+.mz-footer .u-text-16 {
   background-image: none;
   margin: 10px 0 0;
 }
 
-.my-footer .u-section-13 .u-text-17 {
+.mz-footer .u-line-1 {
+  transform-origin: right center 0px;
+  margin-top: 25px;
+  margin-bottom: 0;
+}
+
+.mz-footer .u-text-17 {
   font-size: 0.875rem;
-  margin: 24px auto;
+  margin: 15px auto 20px;
 }
 
 @media (max-width: 1199px) {
-  .my-footer .u-section-13 .u-sheet-1 {
-    min-height: 325px;
+  .mz-footer {
+    min-height: 318px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-1 {
-    min-height: 154px;
+  .mz-footer .u-layout-wrap-1 {
+    width: 896px;
+  }
+
+  .mz-footer .u-layout-cell-1 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-layout-cell-2 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-layout-cell-3 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-layout-cell-4 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-text-11 {
+    margin-right: 13px;
+  }
+
+  .mz-footer .u-text-12 {
+    margin-right: 27px;
+  }
+
+  .mz-footer .u-text-13 {
+    margin-right: 27px;
+  }
+
+  .mz-footer .u-text-14 {
+    margin-right: 27px;
+  }
+
+  .mz-footer .u-layout-cell-5 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-line-1 {
+    height: 3px;
+  }
+
+  .mz-footer .u-text-17 {
+    margin-bottom: 23px;
+    margin-left: calc(((100% - 1140px) / 2) + 462px);
   }
 }
 
 @media (max-width: 991px) {
-  .my-footer .u-section-13 .u-sheet-1 {
-    min-height: 394px;
+  .mz-footer {
+    min-height: 553px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-1 {
-    min-height: 100px;
+  .mz-footer .u-layout-wrap-1 {
+    width: 657px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-2 {
-    min-height: 100px;
+  .mz-footer .u-layout-cell-1 {
+    min-height: 179px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-3 {
-    min-height: 100px;
+  .mz-footer .u-layout-cell-2 {
+    min-height: 179px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-4 {
-    min-height: 100px;
+  .mz-footer .u-layout-cell-3 {
+    min-height: 163px;
   }
 
-  .my-footer .u-section-13 .u-layout-cell-5 {
+  .mz-footer .u-layout-cell-4 {
+    min-height: 163px;
+  }
+
+  .mz-footer .u-layout-cell-5 {
     min-height: 100px;
   }
 }
 
 @media (max-width: 767px) {
-  .my-footer .u-section-13 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .mz-footer {
+    min-height: 852px;
   }
 
-  .my-footer .u-section-13 .u-text-1 {
-    position: relative;
-    width: auto;
+  .mz-footer .u-layout-wrap-1 {
+    width: 466px;
   }
 
-  .my-footer .u-section-13 .u-text-2 {
-    width: auto;
+  .mz-footer .u-text-2 {
     margin-right: 119px;
-    position: relative;
   }
 
-  .my-footer .u-section-13 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .mz-footer .u-layout-cell-2 {
+    min-height: 166px;
   }
 
-  .my-footer .u-section-13 .u-text-3 {
-    width: auto;
+  .mz-footer .u-text-3 {
     margin-right: 28px;
-    position: relative;
   }
 
-  .my-footer .u-section-13 .u-text-4 {
-    position: relative;
-    margin-top: 15px;
+  .mz-footer .u-text-4 {
     margin-right: 28px;
-    width: auto;
   }
 
-  .my-footer .u-section-13 .u-text-5 {
+  .mz-footer .u-text-5 {
     margin-right: 14px;
-    width: auto;
   }
 
-  .my-footer .u-section-13 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .mz-footer .u-layout-cell-4 {
+    min-height: 161px;
   }
 
-  .my-footer .u-section-13 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .my-footer .u-section-13 .u-container-layout-5 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .mz-footer .u-line-1 {
+    margin-top: -3px;
   }
 }
 
 @media (max-width: 575px) {
-  .my-footer .u-section-13 .u-text-2 {
+  .mz-footer {
+    min-height: 880px;
+  }
+
+  .mz-footer .u-layout-wrap-1 {
+    width: 271px;
+    margin-top: 20px;
+  }
+
+  .mz-footer .u-layout-cell-1 {
+    min-height: 207px;
+  }
+
+  .mz-footer .u-text-2 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-3 {
+  .mz-footer .u-text-3 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-4 {
+  .mz-footer .u-text-4 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-5 {
+  .mz-footer .u-text-5 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-11 {
+  .mz-footer .u-text-11 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-12 {
+  .mz-footer .u-text-12 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-13 {
+  .mz-footer .u-text-13 {
     margin-right: 0;
   }
 
-  .my-footer .u-section-13 .u-text-14 {
+  .mz-footer .u-text-14 {
     margin-right: 0;
+  }
+
+  .mz-footer .u-line-1 {
+    margin-top: 0;
   }
 }
