@@ -3,181 +3,205 @@ import Link from 'next/link';
 
 export default function Rhinoplasty() {
   return (
-
     <div className="rhino">
-      <section className="br-section1 u-clearfix u-custom-color-2 u-section-1" id="sec-9a24">
-        <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
-          <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-palette-1-base u-layout-wrap-1">
+      <section className="br-section1 u-clearfix u-section-1" id="sec-9a24">
+        <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+          <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-size-26-lg u-size-26-xl u-size-28-md u-size-28-sm u-size-28-xs u-layout-cell-1">
-                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-sm u-container-layout-1">
-                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> Looking Beautiful isn’t Luck, It’s a Decision</h4>
-                    <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Rhinoplasty (nose)</h2>
-                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-3"> A rhinoplasty procedure reshapes, corrects or <span className="u-text-custom-color-11">reconstructs the nose</span> to achieve more aesthetically pleasing results and to <span className="u-text-custom-color-11">enhance ones' physical appearance.</span>
-                      <br />
-                      <br />Not the right nose? <span className="u-text-custom-color-11">Lets fix it.</span>
-                    </p>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                <div className="u-container-style u-layout-cell u-palette-1-base u-shape-rectangle u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
+                  <div className="u-container-layout u-container-layout-1">
+                    <div className="u-container-style u-expanded-width-xs u-group u-group-1">
+                      <div className="u-container-layout u-valign-middle u-container-layout-2">
+                        <h4 className="u-align-center u-text u-text-custom-color-3 u-text-1"> Life isn’t Perfect, But Your Ha​ir Can Be</h4>
+                        <h2 className="u-align-center u-text u-text-default u-text-2"> Rhinoplasty (nose)</h2>
+                        <p className="opacity_point75 u-align-center u-text u-text-3"> A rhinoplasty procedure reshapes, corrects or <span className="u-text-custom-color-11">reconstructs</span>
+                          <span className="u-text-custom-color-11">the nose</span> to achieve more aesthetically pleasing results and to <span className="u-text-custom-color-11">enhance ones' physical appearance</span>.<br />
+                          <br />Not the right nose? <span className="u-text-custom-color-11">Lets fix it</span>.
+                        </p>
+                        <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-white u-text-custom-color-2 u-btn-1"> Book Online Consultation</a>
+                      </div>
+                    </div>
                   </div>
                 </div>
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32-md u-size-32-sm u-size-32-xs u-size-34-lg u-size-34-xl u-image-1" data-image-width={1034} data-image-height={864}>
-                  <div className="u-container-layout u-valign-middle-md u-valign-top-xl u-container-layout-2" />
+                <div className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-container-style u-image u-layout-cell u-shape-rectangle u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width={1408} data-image-height={1258}>
+                  <div className="u-container-layout u-container-layout-3" />
                 </div>
               </div>
             </div>
           </div>
+          <img className="u-hidden-md u-hidden-sm u-hidden-xs u-image u-image-default u-preserve-proportions u-image-2" src="images/new_img_2.png" alt data-image-width={194} data-image-height={194} />
         </div>
       </section>
       <section className="u-clearfix u-section-2" id="carousel_026f">
-        <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
-          <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-layout-wrap-1">
+        <div className="u-clearfix u-sheet u-valign-top-sm u-valign-top-xs u-sheet-1">
+          <img className="u-hidden-sm u-hidden-xs u-image u-image-default u-preserve-proportions u-image-1" src="images/new_img_4.png" alt data-image-width={194} data-image-height={194} />
+          <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32 u-image-1" data-image-width={838} data-image-height={1080}>
-                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-1" />
+                <div className="u-align-left u-container-style u-image u-layout-cell u-size-32 u-image-2" data-image-width={1208} data-image-height={1400}>
+                  <div className="u-container-layout u-container-layout-1" />
                 </div>
-                <div className="u-container-style u-layout-cell u-size-28 u-layout-cell-2">
-                  <div className="u-container-layout u-valign-bottom-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-container-layout-2">
-                    <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> What is Rhinoplasty?</h4>
-                    <h2 className="u-align-left u-text u-text-2"> Rhinoplasty is a surgical procedure performed on the nose.</h2>
-                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-5 u-text-default-xs u-text-3"> Using rhinoplasty, the size and the shape of the nose may be changed. It’s also possible to improve breathing.<br />
+                <div className="u-align-left u-container-style u-layout-cell u-size-28 u-layout-cell-2">
+                  <div className="u-container-layout u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
+                    <h4 className="u-text u-text-custom-color-3 u-text-default u-text-1"> What is Rhinoplasty?</h4>
+                    <h2 className="u-text u-text-default u-text-2"> Rhinoplasty is a surgical procedure performed on the nose.</h2>
+                    <p className="u-text u-text-custom-color-5 u-text-default u-text-3"> Using rhinoplasty, the size and the shape of the nose may be changed. It’s also possible to improve breathing.<br />
                       <br />The motivation may be to treat a structural problem caused by an injury, to correct a birth defect… <br />
-                      <br />Perhaps you may just want to have a more aesthetical appearance.&nbsp;<br />
+                      <br />Perhaps you may just want to have a more aesthetical appearance.&nbsp;
                     </p>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-none u-palette-1-base u-btn-1">Learn More</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+          <img className="u-hidden-sm u-hidden-xs u-image u-image-contain u-image-default u-image-3" src="images/new_img_5.png" alt data-image-width={178} data-image-height={344} />
         </div>
       </section>
       <section className="u-clearfix u-section-3" id="carousel_8292">
-        <div className="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
+        <div className="u-clearfix u-sheet u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-8 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-container-style u-layout-cell u-size-30-md u-size-30-sm u-size-30-xs u-size-32-lg u-size-32-xl u-layout-cell-1">
-                  <div className="u-container-layout u-valign-middle u-container-layout-1">
-                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> Who is a Good Candidate?</h4>
+                <div className="u-container-style u-layout-cell u-size-30-lg u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
+                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-1">
+                    <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-default-xs u-text-1"> Who is a Good Candidate?</h4>
                     <h2 className="u-align-left u-text u-text-2"> Not everyone can be a candidate. If you are reading this, maybe you are the candidate!</h2>
-                    <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-5 u-text-default-xs u-text-3"> Rhinoplasty can address both aesthetical and medical concerns, simultaneously.<br />
+                    <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> Rhinoplasty can address both aesthetical and medical concerns, simultaneously.<br />
                       <br />If your nose has a birth defect or it was injured, its shape can be corrected through surgery.<br />
                       <br />But you don’t have to have a serious structural problem to choose having a rhinoplasty.<br />
                       <br />You may have a hook nose, your nose may be too large or too small in proportion to your face, your nose tip may be too wide, or maybe there is another feature of your nose that you don’t really like. <br />
                       <br />Experienced surgeons can achieve amazing results which will both satisfy your expectations and look totally natural.<br />
                       <br />If you are experiencing breathing problems related to a crooked or bent septum, these can be treated, too.<br />
                       <br />Anyone older than 18 years old with good health can be a candidate. In special cases, ones younger than 18 can also be considered.<br />
-                      <br />To be informed about your specific case in detail, you should have a consultation with a plastic surgeon.<br />
+                      <br />To be informed about your specific case in detail, you should have a consultation with a plastic surgeon.
                     </p>
-
                     <a href="contact" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
-                <div className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-1" data-image-width={656} data-image-height={864}>
-                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-2" />
+                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-28-xl u-size-30-lg u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width={656} data-image-height={864}>
+                  <div className="u-container-layout u-valign-middle-md u-valign-top-lg u-valign-top-xl u-container-layout-2" />
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section className="u-align-center u-clearfix u-section-4" id="sec-c195">
+
+      <section className="u-align-center u-clearfix u-section-4" id="carousel_5f1a">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> What are the Expected Outcomes?</h4>
-          <h2 className="u-align-center-xs u-text u-text-2"> The results of rhinoplasty can be analyzed in three main</h2>
-          <div className="br-section5-3grid u-border-2 u-border-custom-color-3 u-container-style u-group u-shape-rectangle u-group-1">
-            <div className="u-container-layout u-container-layout-1">
-              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-1" data-image-width={160} data-image-height={160} src="images/img_28.png" />
-              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-3"> Aesthetical Outcomes</h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-4"> Rhinoplasty can address all kinds of aesthetical concerns about nose. </p>
-              <div className="u-list u-list-1">
-                <div className="u-repeater u-repeater-1">
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-2">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-5"> Through rhinoplasty, the size, the shape, the angles, and the proportions of the nose can be changed.</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-3">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-6"> The operation can include changes on the nasal bones, nasal cartilage, and the skin.</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-4">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-7"> The appearance of nasal bridge, nasal tip, or both can be changes.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="br-section5-3grid u-border-2 u-border-custom-color-3 u-container-style u-group u-shape-rectangle u-group-2">
-            <div className="u-container-layout u-container-layout-5">
-              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-5" data-image-width={160} data-image-height={160} src="images/img_76.png" />
-              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-8"> Psychological Outcomes </h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-9"> Not being happy with your nose can lead to serious psychological distress. </p>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-10"> This makes psychological, as important as physical outcomes. </p>
-              <div className="u-list u-list-2">
-                <div className="u-repeater u-repeater-2">
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-6">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-11"> Expect Improved social, and self-confidence.</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-7">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-12"> More positive self-image.</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-8">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-8" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-13"> Decreasing depressive symptomatology</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-9">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-9" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-14"> Alleviating eating disorders</p>
-                    </div>
-                  </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-container-layout-10">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-10" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-15"> Overall better quality of life</p>
+          <h2 className="u-text u-text-2"> The results of rhinoplasty can be analy​zed in three main</h2>
+          <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+            <div className="u-layout">
+              <div className="u-layout-row">
+                <div className="u-container-style u-layout-cell u-size-20-lg u-size-20-xl u-size-30-md u-size-30-sm u-size-30-xs u-layout-cell-1">
+                  <div className="u-container-layout u-valign-top-xs u-container-layout-1">
+                    <div className="pink-border u-align-center-sm u-align-center-xs u-container-style u-expanded-width-md u-expanded-width-xl u-group u-shape-rectangle u-group-1">
+                      <div className="u-container-layout u-valign-top-lg u-container-layout-2">
+                        <img alt className="u-align-center u-image u-image-contain u-image-default u-image-1" data-image-width={160} data-image-height={160} src="images/img_28.png" />
+                        <h3 className="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-custom-color-2 u-text-default-sm u-text-default-xs u-text-3"> Aesthetical Outcomes</h3>
+                        <p className="u-align-left u-text u-text-custom-color-5 u-text-4"> Rhinoplasty can address all kinds of aesthetical concerns about nose. </p>
+                        <div className="u-list u-list-1">
+                          <div className="u-repeater u-repeater-1">
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-3">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-2" src="images/img_29.png" alt data-image-width={129} data-image-height={150} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-5"> Through rhinoplasty, the size, the shape, the angles, and the proportions of the nose can be changed.</p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-4">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-3" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-6"> Avoid non-steroidal anti-inflammatory medications (such as ibuprofen and aspirin) for 2 weeks before the procedure.</p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-5">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-7"> Avoid herbal remedies and supplements </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div className="br-section5-3grid u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-custom-color-3 u-container-style u-group u-shape-rectangle u-group-3">
-            <div className="u-container-layout u-container-layout-11">
-              <img alt className="u-align-center u-image u-image-contain u-image-default u-image-11" data-image-width={160} data-image-height={160} src="images/img_75.png" />
-              <h3 className="u-align-center u-text u-text-custom-color-2 u-text-16"> Health-related Outcomes</h3>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-17">
-                <span className="u-text-custom-color-3" />The health-related outcome of rhinoplasty is related to breathing.
-              </p>
-              <p className="u-align-left u-text u-text-custom-color-5 u-text-18"> If your septum is crooked or bent, you may be experiencing breathing problems.</p>
-              <div className="u-list u-list-3">
-                <div className="u-repeater u-repeater-3">
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-valign-top u-container-layout-12">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-12" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-19"> During the surgery, these problems may also be eliminated.</p>
+                <div className="u-align-center u-container-style u-layout-cell u-size-20-lg u-size-20-xl u-size-30-md u-size-30-sm u-size-30-xs u-layout-cell-2">
+                  <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-6">
+                    <div className="pink-border u-align-center-sm u-align-center-xs u-container-style u-expanded-width-md u-group u-shape-rectangle u-group-2">
+                      <div className="u-container-layout u-container-layout-7">
+                        <img alt className="u-align-center u-image u-image-contain u-image-default u-image-5" data-image-width={160} data-image-height={160} src="images/img_75.png" />
+                        <h3 className="u-align-center u-text u-text-custom-color-2 u-text-8"> Health-related Outcomes</h3>
+                        <p className="u-align-left u-text u-text-custom-color-5 u-text-default-lg u-text-9"> Health-related hair transplant​The health-related outcome of rhinoplasty is related to breathing.outcomes.&nbsp;</p>
+                        <p className="u-align-left u-text u-text-custom-color-5 u-text-10"> The health-related outcome of rhinoplasty is related to breathing.</p>
+                        <div className="u-list u-list-2">
+                          <div className="u-repeater u-repeater-2">
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-8">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-11"> During the surgery, these problems may also be eliminated.</p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-9">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-12"> Beauty is important! Breathing is important, too!</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
-                  <div className="u-container-style u-custom-item u-list-item u-repeater-item">
-                    <div className="u-container-layout u-similar-container u-valign-top u-container-layout-13">
-                      <img className="u-image u-image-default u-preserve-proportions u-image-13" src="images/img_29.png" alt data-image-width={47} data-image-height={48} />
-                      <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-20"> Beauty is important! Breathing is important, too!</p>
+                </div>
+                <div className="u-container-style u-layout-cell u-size-20-lg u-size-20-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-3">
+                  <div className="u-container-layout u-valign-top-md u-valign-top-sm u-container-layout-10">
+                    <div className="pink-border u-container-style u-group u-shape-rectangle u-group-3">
+                      <div className="u-container-layout u-valign-top u-container-layout-11">
+                        <img alt className="u-align-center u-image u-image-contain u-image-default u-image-8" data-image-width={160} data-image-height={160} src="images/img_76.png" />
+                        <h3 className="u-align-center u-text u-text-custom-color-2 u-text-13"> Psychological Outcomes </h3>
+                        <p className="u-align-left u-text u-text-custom-color-5 u-text-14">
+                          <span className="u-text-custom-color-3"> Not being happy</span> with your breasts can lead to serious psychological distress.
+                        </p>
+                        <p className="u-align-left u-text u-text-custom-color-5 u-text-15"> This makes psychological, as important as physical outcomes.</p>
+                        <div className="u-expanded-width-md u-expanded-width-xs u-list u-list-3">
+                          <div className="u-repeater u-repeater-3">
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-12">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-9" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-16"> Expect Improved social, and self-confidence.</p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-13">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-10" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-17"> More positive self-image.</p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-14">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-11" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-18"> Decreasing depressive symptomatology </p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-15">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-12" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-19"> Alleviating eating disorders </p>
+                              </div>
+                            </div>
+                            <div className="u-container-style u-custom-item u-list-item u-repeater-item">
+                              <div className="u-container-layout u-similar-container u-container-layout-16">
+                                <img className="u-image u-image-default u-preserve-proportions u-image-13" src="images/img_29.png" alt data-image-width={48} data-image-height={56} />
+                                <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-20"> Overall better quality of life </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -186,18 +210,17 @@ export default function Rhinoplasty() {
           </div>
         </div>
       </section>
+
       <section className="u-clearfix u-section-5" id="carousel_47ec">
-        <div className="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
-          <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-layout-wrap-1">
+        <div className="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
+          <div className="u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-align-left-xl u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1">
-                  <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-1">
-                    <img className="u-absolute-hcenter-xl u-expanded-height-lg u-expanded-height-xl u-expanded-width-md u-expanded-width-xs u-image u-image-default u-image-1" src="images/img_81.png" alt data-image-width={656} data-image-height={864} />
-                  </div>
+                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width={656} data-image-height={864}>
+                  <div className="u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-xl u-container-layout-1" />
                 </div>
-                <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                  <div className="u-container-layout u-valign-middle u-container-layout-2">
+                <div className="u-container-style u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2">
+                  <div className="u-container-layout u-container-layout-2">
                     <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do Before the Rhinoplasty?</h4>
                     <h2 className="u-align-left u-text u-text-2"> Our surgeons ask your medical history and physical examination.</h2>
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> During your online consultation, your surgeon will ask you questions about your medical history. <br />
@@ -228,14 +251,12 @@ export default function Rhinoplasty() {
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-6">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-5" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
+                            <img className="u-image u-image-default u-preserve-proportions u-image-5" src="images/img_77.png" alt data-image-width={147} data-image-height={150} />
                             <p className="u-align-left u-custom-font u-custom-item u-font-lato u-small-text u-text u-text-custom-color-5 u-text-variant u-text-8"> Take only the medications approved by your surgeon. </p>
                           </div>
                         </div>
                       </div>
                     </div>
-
-                    <a href="contact" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -245,21 +266,21 @@ export default function Rhinoplasty() {
       </section>
       <section className="u-clearfix u-section-6" id="sec-dd79">
         <div className="u-clearfix u-sheet u-sheet-1">
-          <img className="u-image u-image-contain u-image-default u-image-1" src="images/img_62.svg" alt data-image-width={127} data-image-height={349} />
-          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> How is a Rhinoplasty Done?</h4>
+          <img className="u-hidden-xs u-image u-image-contain u-image-default u-image-1" src="images/img_31.svg" alt data-image-width={127} data-image-height={349} />
+          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> How is a Hair Transplant Done?</h4>
           <h2 className="u-align-center-xs u-text u-text-2"> Complex surgery customized according to needs and wishes of the patient.</h2>
           <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-image-2" src data-image-width={1083} data-image-height={864}>
+                    <div className="u-container-style u-image u-layout-cell u-left-cell u-shape-rectangle u-size-30 u-image-2" src data-image-width={1128} data-image-height={900}>
                       <div className="u-container-layout u-valign-middle u-container-layout-1" />
                     </div>
                     <div className="u-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
-                      <div className="u-container-layout u-valign-middle u-container-layout-2">
+                      <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-top-sm u-valign-top-xs u-container-layout-2">
                         <h4 className="u-text u-text-3"> Anesthesia</h4>
-                        <p className="u-text u-text-custom-color-5 u-text-4"> Like all kinds of surgery, brow lift requires anesthesia.<br />
+                        <p className="u-text u-text-custom-color-5 u-text-4"> Like all kinds of surgery, rhinoplasty requires anesthesia. <br />
                           <br />Depending on the particular case, it can be performed using general anesthesia.
                         </p>
                       </div>
@@ -303,7 +324,7 @@ export default function Rhinoplasty() {
                     </div>
                     <div className="u-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-6">
                       <div className="u-container-layout u-valign-middle u-container-layout-6">
-                        <h4 className="u-text u-text-7"> Open And Closed Rhinoplasty </h4>
+                        <h4 className="u-text u-text-7"> Follicular unit strip surgery </h4>
                         <p className="u-text u-text-custom-color-5 u-text-8"> Our surgeons, while being highly skilled in both open and closed rhinoplasty, have specialized in the closed method which leaves no visible scars.<br />
                           <br />In this method, whole surgery is done inside the nostrils. In some cases, using the open method (in which an incision between the nostrils is made) may be necessary.
                         </p>
@@ -317,23 +338,23 @@ export default function Rhinoplasty() {
         </div>
       </section>
       <section className="u-clearfix u-section-7" id="carousel_39da">
-        <div className="u-clearfix u-sheet u-sheet-1">
-          <div className="u-clearfix u-expanded-width u-gutter-8 u-layout-wrap u-layout-wrap-1">
+        <div className="u-clearfix u-sheet u-valign-top u-sheet-1">
+          <div className="u-clearfix u-expanded-width u-gutter-24 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
                 <div className="u-container-style u-layout-cell u-size-29-lg u-size-29-md u-size-29-sm u-size-29-xs u-size-30-xl u-layout-cell-1">
-                  <div className="u-container-layout u-valign-middle u-container-layout-1">
+                  <div className="u-container-layout u-valign-middle-xl u-valign-top-sm u-container-layout-1">
                     <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do After the Rhinoplasty?</h4>
                     <h2 className="u-align-left u-text u-text-2"> Clineca will provide you with all the support and guidance you need.</h2>
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do after the surgery will be explained to you in detail by your surgeon and Clineca will provide you with all the support and guidance you need.<br />
                       <br />You will have a complete and detailed list of instructions.
                     </p>
                     <h4 className="u-align-left u-text u-text-4"> The Most Important Instructions</h4>
-                    <div className="u-list u-list-1">
+                    <div className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-list-1">
                       <div className="u-repeater u-repeater-1">
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-2">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_30.png" alt data-image-width={150} data-image-height={150} />
+                            <img className="u-image u-image-default u-preserve-proportions u-image-1" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
                             <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-5"> Do not smoke for at least 2 weeks after the surgery.</p>
                           </div>
                         </div>
@@ -351,7 +372,7 @@ export default function Rhinoplasty() {
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-5">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_30.png" alt data-image-width={48} data-image-height={48} />
+                            <img className="u-image u-image-default u-preserve-proportions u-image-4" src="images/img_30.png" alt data-image-width={150} data-image-height={150} />
                             <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-8"> Avoid strenuous activities.</p>
                           </div>
                         </div>
@@ -363,19 +384,24 @@ export default function Rhinoplasty() {
                         </div>
                         <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                           <div className="u-container-layout u-similar-container u-container-layout-7">
-                            <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_33.png" alt data-image-width={50} data-image-height={49} />
+                            <img className="u-image u-image-default u-preserve-proportions u-image-6" src="images/img_33.png" alt data-image-width={150} data-image-height={147} />
                             <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-10"> Love yourself and show the world how beautiful you are!</p>
                           </div>
                         </div>
                       </div>
                     </div>
-
-                    <a className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" className="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-layout-cell u-shape-rectangle u-size-30-xl u-size-31-lg u-size-31-md u-size-31-sm u-size-31-xs u-layout-cell-2">
-                  <div className="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-valign-top-lg u-valign-top-xl u-container-layout-8">
-                    <img className="u-align-center-sm u-align-center-xs u-image u-image-contain u-image-default u-image-7" src="images/img_34.png" alt data-image-width={699} data-image-height={1080} />
+                  <div className="u-container-layout u-container-layout-8">
+                    <div className="u-container-style u-group u-hidden-sm u-hidden-xs u-group-1">
+                      <div className="u-container-layout">
+                        <img className="u-image u-image-default u-preserve-proportions u-image-7" src="images/new_img_7.png" alt data-image-width={254} data-image-height={254} />
+                        <img className="u-image u-image-default u-preserve-proportions u-image-8" src="images/new_img_2.png" alt data-image-width={194} data-image-height={194} />
+                      </div>
+                    </div>
+                    <img className="u-absolute-hcenter-sm u-absolute-hcenter-xs u-align-center-sm u-align-center-xs u-expanded-height-sm u-expanded-height-xs u-image u-image-default u-image-9" src="images/new_img_13.png" alt data-image-width={1159} data-image-height={1600} />
                   </div>
                 </div>
               </div>
@@ -387,18 +413,18 @@ export default function Rhinoplasty() {
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-1"> What To Expect During A Recovery?</h4>
           <h2 className="u-align-center-xs u-text u-text-2"> Clineca with you from your consultation to the very end of your recovery.</h2>
-          <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
+          <div className="u-align-center u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1" src data-image-width={1131} data-image-height={864}>
+                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-30 u-image-1" src data-image-width={1131} data-image-height={864}>
                       <div className="u-container-layout u-container-layout-1" />
                     </div>
                     <div className="u-align-center-lg u-align-center-md u-align-center-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                       <div className="u-container-layout u-valign-middle u-container-layout-2">
-                        <h4 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-default-sm u-text-default-xs u-text-3"> The First Week</h4>
-                        <div className="u-list u-list-1">
+                        <h4 className="u-align-left u-text u-text-default u-text-3"> The First Week</h4>
+                        <div className="u-align-left u-expanded-width-xs u-list u-list-1">
                           <div className="u-repeater u-repeater-1">
                             <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                               <div className="u-container-layout u-similar-container u-container-layout-3">
@@ -445,15 +471,15 @@ export default function Rhinoplasty() {
               </div>
             </div>
           </div>
-          <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-2">
+          <div className="u-align-center u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-2">
             <div className="u-layout">
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-align-center u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-3" src>
-                      <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-9">
-                        <h4 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-default-sm u-text-default-xs u-text-10"> Later</h4>
-                        <div className="u-list u-list-2">
+                    <div className="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-3" src>
+                      <div className="u-container-layout u-valign-middle u-container-layout-9">
+                        <h4 className="u-text u-text-default-sm u-text-default-xs u-text-10"> Later</h4>
+                        <div className="u-expanded-width-xs u-list u-list-2">
                           <div className="u-repeater u-repeater-2">
                             <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                               <div className="u-container-layout u-similar-container u-container-layout-10">
@@ -489,7 +515,7 @@ export default function Rhinoplasty() {
                         </div>
                       </div>
                     </div>
-                    <div className="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-13" data-image-width={1131} data-image-height={864}>
+                    <div className="u-container-style u-image u-image-contain u-layout-cell u-right-cell u-size-30 u-image-13" data-image-width={1131} data-image-height={864}>
                       <div className="u-container-layout u-container-layout-15" />
                     </div>
                   </div>
@@ -497,18 +523,18 @@ export default function Rhinoplasty() {
               </div>
             </div>
           </div>
-          <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-3">
+          <div className="u-align-center u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-3">
             <div className="u-layout">
               <div className="u-layout-col">
                 <div className="u-size-60">
                   <div className="u-layout-row">
-                    <div className="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-14" src data-image-width={1131} data-image-height={864}>
+                    <div className="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-30 u-image-14" src data-image-width={1440} data-image-height={1100}>
                       <div className="u-container-layout u-container-layout-16" />
                     </div>
                     <div className="u-align-center u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-6">
-                      <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-17">
-                        <h4 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-default-sm u-text-default-xs u-text-16"> Guidance &amp; Support</h4>
-                        <div className="u-list u-list-3">
+                      <div className="u-container-layout u-valign-middle u-container-layout-17">
+                        <h4 className="u-align-left u-text u-text-default-sm u-text-default-xs u-text-16"> Guidance &amp; Support</h4>
+                        <div className="u-align-left u-expanded-width-xs u-list u-list-3">
                           <div className="u-repeater u-repeater-3">
                             <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                               <div className="u-container-layout u-similar-container u-container-layout-18">
@@ -551,7 +577,7 @@ export default function Rhinoplasty() {
           </div>
         </div>
       </section>
-      <section className="u-align-center u-clearfix u-section-9" id="sec-2f7b">
+      <section className="u-align-center u-clearfix u-hidden-sm u-hidden-xs u-section-9" id="sec-3fbb">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center-xs u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> Why Clineca?</h4>
           <h2 className="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-2"> From beginning to end, we inform you, guide you, serve you, and help you.</h2>
@@ -560,7 +586,7 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="images/img_36.png" alt data-image-width={163} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-3"> Fully Equipped Hospitals</h4>
               <p className="u-align-left u-text u-text-default-xl u-text-4"> Surgeries are performed in prestigious fully equipped hospitals in which doctors from all specialties are present.</p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-1">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-1">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
@@ -569,7 +595,7 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/img_37.png" alt data-image-width={168} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-5">Free Consultation</h4>
               <p className="u-align-left u-text u-text-default-xl u-text-6"> We provide free online consultation with our surgeons through video chat.</p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-2">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center-xl u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xs u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-2">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
@@ -585,7 +611,7 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-4" src="images/img_39.png" alt data-image-width={163} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-9"> 5-Star Hotels</h4>
               <p className="u-align-left u-text u-text-default u-text-10"> We provide special discounts in luxurious hotels near the hospital. Considering your comfort, this is very important to us.</p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-3">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center-xl u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xs u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-3">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
@@ -594,13 +620,13 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-5" src="images/img_40.png" alt data-image-width={164} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-11"> VIP Transportation</h4>
               <p className="u-align-left u-text u-text-default u-text-12"> We provide, via VIP vehicles, airport transfer and transportation between your hotel and the hospital before and after the surgery.</p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-4">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center-xl u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xs u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-4">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
           <div className="u-container-style u-group u-group-6">
             <div className="u-container-layout u-container-layout-6">
-              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-6" src="images/img_41.png" alt data-image-width={164} data-image-height={160} />
+              <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-6" src="images/img_1101.png" alt data-image-width={157} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-13"> 7/24 Support</h4>
               <p className="u-align-left u-text u-text-default-xl u-text-14"> You can contact our agents 7 days 24 hours for your questions or support.</p>
             </div>
@@ -617,7 +643,7 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/img_43.png" alt data-image-width={164} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-17"> All-Inclusive</h4>
               <p className="u-align-left u-text u-text-default u-text-18"> The price includes hotel accommodation (including breakfast), airport transfer, transportation between hotel and hospital before and after the surgery. </p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center-xl u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xs u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
@@ -640,23 +666,211 @@ export default function Rhinoplasty() {
               <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-11" src="images/img_45.png" alt data-image-width={165} data-image-height={160} />
               <h4 className="u-align-left u-custom-item u-text u-text-default u-text-23"> Why Turkey? </h4>
               <p className="u-align-left u-text u-text-default u-text-24"> Turkey is a leading player in medical tourism, now. And İstanbul is the plastic surgery capital of Turkey. İstanbul is also an extremely beautiful touristic city. </p>
-              <a className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+              <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE INFO<span style={{ fontSize: '0.75rem' }} />
               </a>
             </div>
           </div>
         </div>
       </section>
-      <section className="u-clearfix u-section-10" id="sec-8f40">
-        <div className="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
+      <section className="u-clearfix u-hidden-lg u-hidden-md u-hidden-xl u-section-10" id="sec-9e51">
+        <div className="u-clearfix u-sheet u-sheet-1">
+          <div data-interval={5000} data-u-ride="carousel" className="u-carousel u-slider u-slider-1" id="carousel-b54a">
+            <ol className="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
+              <li data-u-target="#carousel-b54a" className="u-active u-grey-30" data-u-slide-to={0} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={1} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={2} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={3} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={4} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={5} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={6} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={7} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={8} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={9} />
+              <li data-u-target="#carousel-b54a" className="u-grey-30" data-u-slide-to={10} />
+            </ol>
+            <div className="u-carousel-inner" role="listbox">
+              <div className="u-active u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-1">
+                  <div className="u-container-style u-expanded-width-xs u-group u-group-1">
+                    <div className="u-container-layout u-container-layout-2">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="images/img_36.png" alt data-image-width={163} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-1"> Fully Equipped Hospitals</h4>
+                      <p className="u-align-left u-text u-text-default-xl u-text-2"> Surgeries are performed in prestigious fully equipped hospitals in which doctors from all specialties are present.</p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-1">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <style data-mode="XL" data-visited="true" dangerouslySetInnerHTML={{ __html: ".u-section-10 .u-container-layout-1 {\n  padding-top: 30px;\n  padding-right: 10px;\n  padding-bottom: 30px;\n  padding-left: 30px;\n}\n.u-block-aafb-7 {\n  text-align: left;\n  width: 70px;\n  height: 68px;\n  transition-duration: 0.5s;\n  margin-top: 0;\n  margin-right: auto;\n  margin-bottom: 0;\n  margin-left: 0;\n}" }} />
+                <style data-mode="LG" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 1199px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="MD" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 991px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="SM" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 767px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="XS" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 575px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-3">
+                  <div className="u-container-style u-expanded-width-xs u-group u-group-2">
+                    <div className="u-container-layout u-valign-top-xs u-container-layout-4">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/img_37.png" alt data-image-width={168} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-3">Free Consultation</h4>
+                      <p className="u-align-left u-text u-text-default-xl u-text-4"> We provide free online consultation with our surgeons through video chat.</p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-2">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <style data-mode="XL" data-visited="true" dangerouslySetInnerHTML={{ __html: ".u-section-10 .u-container-layout-1 {\n  padding-top: 30px;\n  padding-right: 10px;\n  padding-bottom: 30px;\n  padding-left: 30px;\n}\n.u-block-aafb-7 {\n  text-align: left;\n  width: 70px;\n  height: 68px;\n  transition-duration: 0.5s;\n  margin-top: 0;\n  margin-right: auto;\n  margin-bottom: 0;\n  margin-left: 0;\n}" }} />
+                <style data-mode="LG" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 1199px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="MD" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 991px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="SM" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 767px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="XS" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 575px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-5">
+                  <div className="u-container-style u-expanded-width-xs u-group u-group-3">
+                    <div className="u-container-layout u-container-layout-6">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-3" src="images/img_38.png" alt data-image-width={165} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-5"> Ensured Performance</h4>
+                      <p className="u-align-left u-text u-text-default u-text-6"> We provide free online consultation with our surgeons through video chat.</p>
+                    </div>
+                  </div>
+                </div>
+                <style data-mode="XL" data-visited="true" dangerouslySetInnerHTML={{ __html: ".u-section-10 .u-container-layout-1 {\n  padding-top: 30px;\n  padding-right: 10px;\n  padding-bottom: 30px;\n  padding-left: 30px;\n}\n.u-block-aafb-7 {\n  text-align: left;\n  width: 70px;\n  height: 68px;\n  transition-duration: 0.5s;\n  margin-top: 0;\n  margin-right: auto;\n  margin-bottom: 0;\n  margin-left: 0;\n}" }} />
+                <style data-mode="LG" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 1199px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="MD" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 991px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="SM" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 767px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="XS" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 575px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+              </div>
+              <div className="u-carousel-item u-container-style u-slide u-carousel-item-4">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-7">
+                  <div className="u-container-style u-expanded-width-xs u-group u-group-4">
+                    <div className="u-container-layout u-container-layout-8">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-4" src="images/img_1102.png" alt data-image-width={157} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-7"> 7/24 Support</h4>
+                      <p className="u-align-left u-text u-text-default-xl u-text-8"> You can contact our agents 7 days 24 hours for your questions or support.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-align-left-xs u-carousel-item u-container-style u-slide u-carousel-item-5">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-9">
+                  <div className="u-container-style u-expanded-width-xs u-group u-group-5">
+                    <div className="u-container-layout u-container-layout-10">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-5" src="images/img_40.png" alt data-image-width={164} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-9"> VIP Transportation</h4>
+                      <p className="u-align-left u-text u-text-default u-text-10"> We provide, via VIP vehicles, airport transfer and transportation between your hotel and the hospital before and after the surgery.</p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-3">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <style data-mode="XL" data-visited="true" dangerouslySetInnerHTML={{ __html: ".u-section-10 .u-container-layout-1 {\n  padding-top: 30px;\n  padding-right: 10px;\n  padding-bottom: 30px;\n  padding-left: 30px;\n}\n.u-block-aafb-7 {\n  text-align: left;\n  width: 70px;\n  height: 68px;\n  transition-duration: 0.5s;\n  margin-top: 0;\n  margin-right: auto;\n  margin-bottom: 0;\n  margin-left: 0;\n}" }} />
+                <style data-mode="LG" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 1199px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="MD" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 991px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="SM" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 767px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+                <style data-mode="XS" data-visited="true" dangerouslySetInnerHTML={{ __html: "@media (max-width: 575px) {\n  .u-section-10 .u-container-layout-1 {\n    padding-top: 30px;\n    padding-right: 10px;\n    padding-bottom: 30px;\n    padding-left: 30px;\n  }\n  .u-block-aafb-7 {\n    text-align: left;\n    width: 70px;\n    height: 68px;\n    transition-duration: 0.5s;\n    margin-top: 0;\n    margin-right: auto;\n    margin-bottom: 0;\n    margin-left: 0;\n  }\n}" }} />
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-11">
+                  <div className="u-container-style u-group u-group-6">
+                    <div className="u-container-layout u-container-layout-12">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-6" src="images/img_39.png" alt data-image-width={163} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-11"> 5-Star Hotels</h4>
+                      <p className="u-align-left u-text u-text-default u-text-12"> We provide special discounts in luxurious hotels near the hospital. Considering your comfort, this is very important to us.</p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-4">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-13">
+                  <div className="u-container-style u-group u-group-7">
+                    <div className="u-container-layout u-container-layout-14">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-7" src="images/img_42.png" alt data-image-width={166} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-13"> No Hidden Costs</h4>
+                      <p className="u-align-left u-text u-text-default u-text-14"> The price includes fees of the surgeon and the anesthesiologist, operating room expenses, anesthesia, hospitalization, standard tests, medications and medical visits by a nurse.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-15">
+                  <div className="u-container-style u-group u-group-8">
+                    <div className="u-container-layout u-container-layout-16">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-8" src="images/img_44.png" alt data-image-width={167} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-15"> Visits by Nurses</h4>
+                      <p className="u-align-left u-text u-text-default u-text-16"> A nurse will visit you every day during your hotel resting to examine you and provide medical care.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-17">
+                  <div className="u-container-style u-group u-group-9">
+                    <div className="u-container-layout u-container-layout-18">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-9" src="images/img_46.png" alt data-image-width={164} data-image-height={160} />
+                      <h4 className="text-align-left u-align-left u-custom-item u-text u-text-default u-text-17"> Optional Services &amp; Products </h4>
+                      <p className="u-align-left u-text u-text-default u-text-18"> Interpreter service, BBL pillow, neck pillow (rhinoplasty), eye mask (rhinoplasty), voltage converter, and others that will enhance your comfort and satisfaction.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-carousel-item u-container-style u-slide">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-19">
+                  <div className="u-container-style u-group u-group-10">
+                    <div className="u-container-layout u-container-layout-20">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-10" src="images/img_43.png" alt data-image-width={164} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-19"> All-Inclusive</h4>
+                      <p className="u-align-left u-text u-text-default u-text-20"> The price includes hotel accommodation (including breakfast), airport transfer, transportation between hotel and hospital before and after the surgery. </p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-5">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="u-carousel-item u-container-style u-slide u-carousel-item-11">
+                <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-21">
+                  <div className="u-container-style u-group u-group-11">
+                    <div className="u-container-layout u-container-layout-22">
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-11" src="images/img_45.png" alt data-image-width={165} data-image-height={160} />
+                      <h4 className="u-align-left u-custom-item u-text u-text-default u-text-21"> Why Turkey? </h4>
+                      <p className="u-align-left u-text u-text-default u-text-22"> Turkey is a leading player in medical tourism, now. And İstanbul is the plastic surgery capital of Turkey. İstanbul is also an extremely beautiful touristic city. </p>
+                      <a href="contact" className="u-align-center u-border-2 u-border-custom-color-3 u-btn u-button-style u-hover-custom-color-3 u-none u-text-custom-color-3 u-text-hover-white u-btn-6">MORE INFO<span style={{ fontSize: '0.75rem' }} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <a className="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-xl u-carousel-control u-carousel-control-prev u-custom-color-3 u-icon-rounded u-spacing-9 u-carousel-control-1" href="#carousel-b54a" role="button" data-u-slide="prev">
+              <span aria-hidden="true">
+                <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+              c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z" /></svg>
+              </span>
+              <span className="sr-only">Previous</span>
+            </a>
+            <a className="u-carousel-control u-carousel-control-next u-custom-color-3 u-icon-rounded u-spacing-9 u-carousel-control-2" href="#carousel-b54a" role="button" data-u-slide="next">
+              <span aria-hidden="true">
+                <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+              c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z" /></svg>
+              </span>
+              <span className="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section className="u-clearfix u-section-11" id="sec-8f40">
+        <div className="u-clearfix u-sheet u-sheet-1">
           <div className="u-clearfix u-expanded-width-lg u-expanded-width-xl u-gutter-20 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-center u-container-style u-layout-cell u-size-28 u-layout-cell-1">
-                  <div className="u-container-layout u-valign-middle u-container-layout-1">
+                <div className="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xl u-container-style u-layout-cell u-size-28 u-layout-cell-1">
+                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-1">
                     <div className="home-page-4-right-card u-align-center u-container-style u-group u-shape-rectangle u-group-1">
                       <div className="u-container-layout u-container-layout-2">
-                        <div className="u-image u-image-circle u-image-contain u-preserve-proportions u-image-1" alt data-image-width={144} data-image-height={150} />
-                        <h4 className="u-align-left u-text u-text-default u-text-1"> Face Operation</h4>
+                        <div className="u-image u-image-circle u-image-contain u-preserve-proportions u-image-1" alt data-image-width={46} data-image-height={48} />
+                        <h4 className="u-align-left u-text u-text-default-lg u-text-default-xl u-text-1"> Face Operation</h4>
                       </div>
                     </div>
                     <div className="u-list u-list-1">
@@ -712,7 +926,7 @@ export default function Rhinoplasty() {
                       <div className="u-repeater u-repeater-2">
                         <div className="u-align-left u-container-style u-custom-color-2 u-custom-item u-list-item u-repeater-item u-shape-rectangle u-list-item-10">
                           <div className="u-container-layout u-similar-container u-container-layout-12">
-                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/img_60.png" alt data-image-width={150} data-image-height={150} />
+                            <img className="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/img_60.png" alt data-image-width={48} data-image-height={48} />
                             <h5 className="u-custom-item u-text u-text-11"> &nbsp; Breast Operation</h5>
                           </div>
                         </div>
@@ -727,55 +941,53 @@ export default function Rhinoplasty() {
                   </div>
                 </div>
                 <div className="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-container-style u-layout-cell u-size-32 u-layout-cell-2">
-                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-14">
+                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-14">
                     <h4 className="u-align-center-sm u-align-center-xs u-align-left-xl u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-13"> Our Pantients Say</h4>
-                    <h2 className="u-align-left-xl u-text u-text-14"> Don’t just take our word for it but let’s listen to our patients.</h2>
-                    <Caresol >
-                      <div className="u-carousel-inner" role="listbox" >
-                        <div className="u-align-center u-carousel-item u-container-style u-slide u-carousel-item-2">
-                          <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
-                            <div style={{ display: "flex", flexDirection: 'row' }}>
-                              <img style={{ padding: '5px' }} src="images/img_18.png" alt="caresol-logo" width="80" height="80" />
-                              <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
-                                <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Chiara</h4>
-                                <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Rhinopasty</p>
-                              </div>
-                            </div>
-                            <div>
-                              <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>“Oh, my God! I dont think I hava a whole new appearance. I’m like myself but with a nose where I can breathe through and with a nose I like”</p>
-                            </div>
+                    <h2 className="text-align-center u-align-left-xl u-text u-text-14"> Don’t just take our word for it but let’s listen to our patients.</h2>
+                    <div data-interval={5000} data-u-ride="carousel" className="custom_box_shadow u-carousel u-expanded-width-xs u-slider u-slider-1" id="carousel-885a">
+                      <ol className="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
+                        <li data-u-target="#carousel-885a" className="u-active u-grey-30" data-u-slide-to={0} />
+                        <li data-u-target="#carousel-885a" className="u-grey-30" data-u-slide-to={1} />
+                      </ol>
+                      <div className="u-carousel-inner" role="listbox">
+                        <div className="u-active u-carousel-item u-container-style u-slide">
+                          <div className="u-container-layout u-container-layout-15">
+                            <div className="u-align-center u-image u-image-circle u-preserve-proportions u-image-4" alt data-image-width={150} data-image-height={150} />
+                            <h3 className="u-align-center u-text u-text-default u-text-15"> Chiara</h3>
+                            <p className="u-align-center u-text u-text-custom-color-3 u-text-default u-text-16"> Rhinopasty</p>
+                            <p className="u-align-left u-text u-text-custom-color-5 u-text-17"> “Oh, my God! I dont think I hava a whole new appearance. I’m like myself but with a nose where I can breathe through and with a nose I like”</p>
                           </div>
                         </div>
-                        <div className="u-active u-align-center u-carousel-item u-container-style u-slide u-carousel-item-1">
-                          <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
-                            <div style={{ display: "flex", flexDirection: 'row' }}>
-                              <img style={{ padding: '5px' }} src="images/img_102.png" alt="caresol-logo" width="80" height="80" />
-                              <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
-                                <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Gabriella Williams</h4>
-                                <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Brazilian Butt Lift</p>
-                              </div>
-                            </div>
-                            <div>
-                              <p style={{ textAlign: 'left', color: '#555555', font: '14px' }}>As an anxious person, my biggest fear was to be left alone after the
-                                surgery. I read horrible reviews. So I’m aware of how lucky I was. From our first contact to the end
-                                of my recovery, they were always in touch, 7 days and 24 hours....</p>
-                            </div>
+                        <div className="u-carousel-item u-container-style u-slide">
+                          <div className="u-container-layout u-container-layout-16">
+                            <div className="u-align-center u-image u-image-circle u-preserve-proportions u-image-5" alt data-image-width={176} data-image-height={176} />
+                            <h3 className="u-align-center-lg u-align-center-xl u-align-left-md u-align-left-sm u-align-left-xs u-text u-text-default u-text-18"> Gabriella Williams</h3>
+                            <p className="u-align-center u-text u-text-custom-color-3 u-text-default u-text-19"> Brazilian Butt Lift</p>
+                            <p className="u-align-left u-text u-text-custom-color-5 u-text-20"> As an anxious person, my biggest fear was to be left alone after the surgery. I read horrible reviews. So I’m aware of how lucky I was. From our first contact to the end of my recovery, they were always in touch, 7 days and 24 hours. Even after I returned home, they kept answering my questions, informing me, and following my recovery through my photos. </p>
                           </div>
                         </div>
-
                       </div>
-                    </Caresol>
-
-                    {/* <div className="home-page-4-right-card u-container-style u-expanded-width-xs u-group u-shape-rectangle u-group-2">
-                      <div className="u-container-layout u-container-layout-15">
-                        <div className="u-align-center-md u-align-center-sm u-align-center-xs u-image u-image-circle u-preserve-proportions u-image-4" alt data-image-width={150} data-image-height={150} />
-                        <h3 className="u-align-center-md u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-default u-text-15"> Chiara </h3>
-                        <p className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-default u-text-16"> Rhinopasty</p>
-                        <p className="u-text u-text-custom-color-5 u-text-17"> “Oh, my God! I dont think I hava a whole new appearance. I’m like myself but with a nose where I can breathe through and with a nose I like” </p>
-                      </div>
+                      <a className="u-carousel-control u-carousel-control-prev u-custom-color-3 u-spacing-9 u-text-body-alt-color u-carousel-control-1" href="#carousel-885a" role="button" data-u-slide="prev">
+                        <span aria-hidden="true">
+                          <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+		c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z" /></svg>
+                        </span>
+                        <span className="sr-only">
+                          <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+		c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z" /></svg>
+                        </span>
+                      </a>
+                      <a className="u-carousel-control u-carousel-control-next u-custom-color-3 u-spacing-9 u-text-body-alt-color u-carousel-control-2" href="#carousel-885a" role="button" data-u-slide="next">
+                        <span aria-hidden="true">
+                          <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+		c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z" /></svg>
+                        </span>
+                        <span className="sr-only">
+                          <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+		c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z" /></svg>
+                        </span>
+                      </a>
                     </div>
-                    <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-5" src="images/img_48.png" alt data-image-width={50} data-image-height={50} />
-                    <img className="u-image u-image-default u-opacity u-opacity-60 u-preserve-proportions u-image-6" src="images/img_49.png" alt data-image-width={50} data-image-height={50} /> */}
                   </div>
                 </div>
               </div>
@@ -783,11 +995,11 @@ export default function Rhinoplasty() {
           </div>
         </div>
       </section>
-      <section className="u-align-center u-clearfix u-section-11" id="sec-0cc1">
+      <section className="u-align-center u-clearfix u-section-12" id="sec-0cc1">
         <div className="u-clearfix u-sheet u-sheet-1">
-          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-xl u-text-default-xs u-text-1"> Step by Step Experience for International Patients</h4>
-          <h2 className="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-2"> Clineca believes that everything should be correct, detailed and satisfying.</h2>
-          <div className="u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-list u-list-1">
+          <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-xl u-text-1"> Step by Step Experience for International Patients</h4>
+          <h2 className="text-align-center u-align-center-lg u-align-center-md u-align-center-xl u-align-center-xs u-text u-text-2"> Clineca believes that everything should be correct, detailed and satisfying.</h2>
+          <div className="u-align-center-xs u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-list u-list-1">
             <div className="u-repeater u-repeater-1">
               <div className="u-container-style u-custom-item u-list-item u-repeater-item">
                 <div className="u-container-layout u-similar-container u-container-layout-1">
@@ -866,19 +1078,24 @@ export default function Rhinoplasty() {
           </div>
         </div>
       </section>
-      <section className="u-clearfix u-custom-color-2 u-section-12" id="sec-c7cd">
-        <div className="u-clearfix u-sheet u-sheet-1">
+      <section className="u-clearfix u-custom-color-2 u-section-13" id="sec-c7cd">
+        <div className="u-clearfix u-sheet u-valign-bottom-xl u-valign-bottom-xs u-valign-middle-lg u-sheet-1">
+          <img className="u-hidden-sm u-hidden-xs u-image u-image-default u-image-1" src="images/new_image_10.png" alt data-image-width={344} data-image-height={345} />
           <div className="u-clearfix u-expanded-width u-gutter-22 u-layout-wrap u-layout-wrap-1">
             <div className="u-gutter-0 u-layout">
               <div className="u-layout-row">
-                <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-30-lg u-size-30-xl u-size-31-md u-size-31-sm u-size-31-xs u-image-1" data-image-width={500} data-image-height={569}>
-                  <div className="u-container-layout u-valign-middle u-container-layout-1" />
+                <div className="u-align-left u-container-style u-layout-cell u-shape-rectangle u-size-30-lg u-size-30-xl u-size-31-md u-size-31-sm u-size-31-xs u-layout-cell-1">
+                  <div className="u-container-layout u-container-layout-1">
+                    <img className="u-absolute-hcenter-sm u-absolute-hcenter-xs u-align-center-xs u-expanded-height-sm u-expanded-height-xs u-hidden-lg u-hidden-md u-hidden-xl u-image u-image-default w100vh u-image-2" src="images/new_img_9.png" alt data-image-width={534} data-image-height={1139} />
+                    <img className="u-expanded-height-md u-expanded-height-sm u-expanded-height-xs u-hidden-sm u-hidden-xs u-image u-image-default u-image-3" src="images/new_img_9.png" alt data-image-width={534} data-image-height={1139} />
+                    <img className="u-absolute-hcenter-sm u-absolute-hcenter-xs u-align-center-sm u-align-center-xs u-expanded-height-sm u-expanded-height-xs u-image u-image-4" src="images/new_img_8.png" data-image-width={812} data-image-height={1012} />
+                  </div>
                 </div>
                 <div className="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-30-lg u-size-30-xl u-layout-cell-2">
-                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-2">
+                  <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-2">
                     <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming  patients! Let us make an appointment for your online consultation.</h2>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book Online Consultation</a>
                   </div>
                 </div>
               </div>
@@ -886,10 +1103,7 @@ export default function Rhinoplasty() {
           </div>
         </div>
       </section>
-      <span style={{ height: 64, width: 64, marginLeft: 0, marginRight: 'auto', marginTop: 0, right: 20, bottom: 20, backgroundImage: 'none' }} className="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-13" data->
-        <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlnsXlink="http://www.w3.org/1999/xlink" xlinkHref="#svg-1d98" /></svg>
-        <svg className="u-svg-content" enableBackground="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z" /></svg>
-      </span>
     </div>
+
   )
 }
