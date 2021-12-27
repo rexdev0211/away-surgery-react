@@ -6177,7 +6177,9 @@ body {
 
 @media screen and (max-width: 320px) {
   body {
-    width: fit-content;
+    display: flex;
+    justify-content: center;
+    /* width: fit-content; */
   }
 }
 

@@ -23,7 +23,7 @@ export default function Hair() {
                       <br />The Away Surgery Institute uses tried and tested microsurgery techniques to re-introduce healthy
                       hair into this area and produce a natural-looking hairline.
                     </p>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-image u-layout-cell u-shape-rectangle u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width={1408} data-image-height={1260}>
@@ -98,7 +98,7 @@ export default function Hair() {
                         </div>
                       </div>
                     </div>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-3" data-image-width={656} data-image-height={864}>

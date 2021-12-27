@@ -14,7 +14,7 @@ export const BrowLift = () => {
                     <h4 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-1"> Life is Good When Your Brows Are On Point</h4>
                     <h2 className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Brow Lift</h2>
                     <p className="u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-3"> A brow lift procedure is most commonly carried out to correct the signs of ageing, in which forehead creases and the descent of the brow has caused a worn-out or aged look.</p>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-image u-image-contain u-layout-cell u-size-32-md u-size-32-sm u-size-32-xs u-size-34-lg u-size-34-xl u-image-1" data-image-width={1033} data-image-height={864}>
@@ -44,7 +44,7 @@ export const BrowLift = () => {
                       <br />If you have concerns about having a brow lift, don’t be afraid! You are not alone, and we are here to help you throughout your journey. <br />
                       <br />Keep in mind that brow lift results won't last forever. As you age your facial skin might begin to droop again. Sun damage also can age your skin.<br />
                     </p>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@ export const BrowLift = () => {
                         </div>
                       </div>
                     </div>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-image u-image-contain u-layout-cell u-size-28-lg u-size-28-xl u-size-30-md u-size-30-sm u-size-30-xs u-image-5" data-image-width={656} data-image-height={864}>
@@ -234,7 +234,7 @@ export const BrowLift = () => {
                         </div>
                       </div>
                     </div>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -400,7 +400,7 @@ export const BrowLift = () => {
                         </div>
                       </div>
                     </div>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
                 <div className="u-align-left u-container-style u-layout-cell u-shape-rectangle u-size-30-xl u-size-31-lg u-size-31-md u-size-31-sm u-size-31-xs u-layout-cell-2">
@@ -909,7 +909,7 @@ export const BrowLift = () => {
                   <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-2">
                     <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming  patients! Let us make an appointment for your online consultation.</h2>
-                    <a chref="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
+                    <a href="contact" lassName="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">Learn more</a>
                   </div>
                 </div>
               </div>

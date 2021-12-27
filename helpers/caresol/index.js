@@ -1,3 +1,4 @@
+import { Carousel } from "react-responsive-carousel"
 
 export const Caresol = ({ children }) => {
   return (
