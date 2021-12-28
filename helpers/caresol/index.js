@@ -19,7 +19,7 @@ export const Caresol = ({ children }) => {
               <div className="u-active u-align-center u-carousel-item u-container-style u-slide u-carousel-item-1">
                 <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
                   <div style={{ display: "flex", flexDirection: 'row' }}>
-                    <img style={{ padding: '5px' }} src="images/img_102.png" alt="caresol-logo" width="80" height="80" />
+                    <img style={{ padding: '5px' }} src="images/img_102.png" ="caresol-logo" width="80" height="80" />
                     <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
                       <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Gabriella Williams</h4>
                       <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Brazilian Butt Lift</p>
@@ -36,7 +36,7 @@ export const Caresol = ({ children }) => {
               <div className="u-align-center u-carousel-item u-container-style u-slide u-carousel-item-2">
                 <div style={{ display: "flex", flexDirection: 'column', padding: '15px' }}>
                   <div style={{ display: "flex", flexDirection: 'row' }}>
-                    <img style={{ padding: '5px' }} src="images/img_18.png" alt="caresol-logo" width="80" height="80" />
+                    <img style={{ padding: '5px' }} src="images/img_18.png" ="caresol-logo" width="80" height="80" />
                     <div style={{ display: "flex", flexDirection: 'column', alignItems: "flex-start", marginLeft: '20px', marginTop: '10px' }}>
                       <h4 style={{ margin: '0', color: '#1A4A67', textAlign: 'left' }}>Chiara</h4>
                       <p style={{ margin: '0', color: '#FF5F7E', textAlign: 'left' }}> Rhinopasty</p>
@@ -93,7 +93,7 @@ export const Caresol = ({ children }) => {
 <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-1">
   <div className="u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-group-1">
     <div className="u-container-layout u-valign-middle-lg u-container-layout-2">
-      <div className="u-align-center-md u-align-center-sm u-align-center-xs u-image u-image-circle u-preserve-proportions u-image-1" alt data-image-width={176} data-image-height={176}
+      <div className="u-align-center-md u-align-center-sm u-align-center-xs u-image u-image-circle u-preserve-proportions u-image-1"  data-image-width={176} data-image-height={176}
         style={{
           backgroundImage: "url('images/img_102.png')",
           width: '88px',

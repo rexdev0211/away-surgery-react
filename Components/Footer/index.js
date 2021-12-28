@@ -173,7 +173,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="u-border-1 u-border-custom-color-6 u-expanded-width u-line u-line-horizontal u-line-1" />
-      <p className="u-align-center u-text u-text-custom-color-5 u-text-default w-100vh u-text-17">
+      <p className="u-align-center u-text u-text-custom-color-5 u-text-default u-text-17">
         <font style={{ verticalAlign: 'inherit' }}>
           <font style={{ verticalAlign: 'inherit' }}>
             <font style={{ verticalAlign: 'inherit' }}>

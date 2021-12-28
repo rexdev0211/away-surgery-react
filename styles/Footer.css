@@ -154,6 +154,12 @@
   margin: 15px auto 20px;
 }
 
+@media (max-width: 425px) {
+  .contact {
+    margin-bottom: 300px;
+  }
+}
+
 @media (max-width: 1199px) {
   .mz-footer {
     min-height: 318px;

@@ -1,5 +1,6 @@
 import { useState } from "react";
-import Link from 'next/link';
+import Head from 'next/head';
+import Script from 'next/script'
 
 export const Header = () => {
 
@@ -20,31 +21,31 @@ export const Header = () => {
           <div className="u-repeater u-repeater-1">
             <div className="u-container-style u-custom-item u-list-item u-repeater-item" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                <p className="u-align-center u-custom-item u-text u-text-default u-text-2"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197560.png" alt /></span>French
+                <p className="u-align-center u-custom-item u-text u-text-default u-text-2"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197560.png" /></span>French
                 </p>
               </div>
             </div>
             <div className="u-container-style u-custom-item u-list-item u-repeater-item" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                <p className="u-align-center u-custom-item u-text u-text-default u-text-3"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/spanish_flag.png" alt /></span>Spanish
+                <p className="u-align-center u-custom-item u-text u-text-default u-text-3"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/spanish_flag.png" /></span>Spanish
                 </p>
               </div>
             </div>
             <div className="u-container-style u-custom-item u-list-item u-repeater-item" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-                <p className="u-align-center u-custom-item u-text u-text-default u-text-4"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197626.png" alt /></span>Italian
+                <p className="u-align-center u-custom-item u-text u-text-default u-text-4"><span className="u-file-icon u-icon u-icon-4" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197626.png" /></span>Italian
                 </p>
               </div>
             </div>
             <div className="u-container-style u-custom-item u-list-item u-repeater-item" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-5">
-                <p className="u-align-center u-custom-item u-text u-text-default u-text-5"><span className="u-file-icon u-icon u-icon-7" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197571.png" alt /></span>German
+                <p className="u-align-center u-custom-item u-text u-text-default u-text-5"><span className="u-file-icon u-icon u-icon-7" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/197571.png" /></span>German
                 </p>
               </div>
             </div>
             <div className="u-container-style u-custom-item u-list-item u-repeater-item" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction>
               <div className="u-container-layout u-similar-container u-valign-top u-container-layout-6">
-                <p className="u-align-center u-custom-item u-text u-text-default u-text-6"><span className="u-file-icon u-icon u-icon-8" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/323300.png" alt /></span>Russian
+                <p className="u-align-center u-custom-item u-text u-text-default u-text-6"><span className="u-file-icon u-icon u-icon-8" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/323300.png" /></span>Russian
                 </p>
               </div>
             </div>
@@ -59,7 +60,8 @@ export const Header = () => {
     <header className="custom_box_shadow u-align-left-md u-align-left-sm u-align-left-xs u-clearfix u-header u-sticky u-sticky-6561 u-white u-header" id="sec-acc2">
       <div className="u-clearfix u-sheet u-sheet-1">
         <a href="contact" className="u-btn u-button-style u-hidden-md u-hidden-sm u-hidden-xs u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">FREE
-          CONSULTATION</a>
+          CONSULTATION
+        </a>
 
 
         <a className="u-hidden-sm u-hidden-xs u-image u-logo u-image-1" data-image-width={252} data-image-height={44}>
@@ -157,7 +159,7 @@ export const Header = () => {
                     <a href="breast" className="u-button-style u-nav-link" style={{ padding: '10px 13px' }}>Breast</a>
                   </li>
                   <li className="u-nav-item">
-                    <a href="breast" className="u-button-style u-nav-link" style={{ padding: '10px 13px' }}>Body</a>
+                    <a href="buttlift" className="u-button-style u-nav-link" style={{ padding: '10px 13px' }}>Body</a>
                   </li>
                   <li className="u-nav-item"><a className="u-button-style u-nav-link" style={{ padding: '10px 13px' }}>English</a>
                     <div className="u-nav-popup">
@@ -185,8 +187,8 @@ export const Header = () => {
         </nav>
         <div className="u-container-style u-group u-hidden-md u-hidden-sm u-hidden-xs u-group-1">
           <div className="u-container-layout" tabIndex="0" onFocus={mouseEnter} onBlur={mouseLeave}>
-            <p className="u-align-center u-custom-item u-text u-text-1"><span className="u-file-icon u-icon u-icon-2" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/323329.png" alt /></span>English
-            </p><span className="u-file-icon u-icon u-icon-3"><img src="images/892498.png" alt /></span>
+            <p className="u-align-center u-custom-item u-text u-text-1"><span className="u-file-icon u-icon u-icon-2" data-animation-name data-animation-duration={0} data-animation-delay={0} data-animation-direction><img src="images/323329.png" /></span>English
+            </p><span className="u-file-icon u-icon u-icon-3"><img src="images/892498.png" /></span>
           </div>
         </div>
 

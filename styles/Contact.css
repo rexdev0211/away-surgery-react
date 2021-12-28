@@ -10,6 +10,7 @@
   margin: 30px auto 0 0;
 }
 
+
 .contact .u-section-1 .u-image-1 {
   min-height: 655px;
   background-image: url("/images/img_96.png");
@@ -123,6 +124,8 @@
   margin-right: 7px;
   vertical-align: 0px;
 }
+
+
 
 @media (max-width: 1199px) {
   .contact .u-section-1 .u-sheet-1 {
@@ -395,5 +398,21 @@
 
   .contact .u-section-1 .u-btn-2 {
     margin-left: 0;
+  }
+}
+
+/* Footer change */
+#question_iframe {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 425px) {
+  #question_iframe {
+    margin-top: 20px;
+    margin-left: -20px;
+    width: 107%;
+    background: '#fff';
+    height: 400;
   }
 }
