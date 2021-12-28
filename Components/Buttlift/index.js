@@ -6,6 +6,32 @@ export const ButtLift = () => {
   return (
 
     <div className="buttlift">
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-2BLG34TBPY"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-2BLG34TBPY');
+      `}
+      </Script>
+
+      <Script id="the_talkto_id">
+        {`
+           var Tawk_API=Tawk_API||{ }, Tawk_LoadStart=new Date();
+           (function(){
+           var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+           s1.async=true;
+           s1.src='https://embed.tawk.to/5f440bdacc6a6a5947ae6467/default';
+           s1.charset='UTF-8';
+           s1.setAttribute('crossorigin','*');
+           s0.parentNode.insertBefore(s1,s0);
+           })();
+      `}
+      </Script>
       <section className="br-section1 u-clearfix u-section-1" id="sec-9a24">
         <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
