@@ -1,0 +1,10 @@
+#face-nested-menu1:visited,
+#face-nested-menu2:visited {
+  color: #4d4d4d !important;
+}
+
+#face-nested-menu1:hover,
+#face-nested-menu2:hover {
+  color: #fff !important;
+  background-color: #1a4a67 !important;
+}

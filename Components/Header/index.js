@@ -93,12 +93,12 @@ export const Header = () => {
                 <div className="u-nav-popup" style={{ background: 'white' }}>
                   <ul className="u-h-spacing-20 u-nav u-unstyled u-v-spacing-11 u-nav-2">
                     <li className="u-nav-item">
-                      <a href="browlift" className="u-button-style u-nav-link u-text-custom-color-5 u-text-hover-palette-1-light-3">Brow
+                      <a href="browlift" id="face-nested-menu1" className="u-button-style u-nav-link u-text-custom-color-5 u-text-hover-palette-1-light-3 face-nested-menu">Brow
                         Lift
                       </a>
                     </li>
                     <li className="u-nav-item">
-                      <a href="rhinoplasty" className="u-button-style u-nav-link u-text-custom-color-5 u-text-hover-palette-1-light-3">Rhinoplasty</a>
+                      <a href="rhinoplasty" id="face-nested-menu2" className="u-button-style u-nav-link u-text-custom-color-5 u-text-hover-palette-1-light-3 face-nested-menu">Rhinoplasty</a>
                     </li>
                   </ul>
                 </div>

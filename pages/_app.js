@@ -11,6 +11,8 @@ import '../styles/Footer.css';
 import '../styles/Slider.css';
 import '../styles/Hair.css';
 import '../styles/Main.css';
+import '../styles/Custom.css';
+
 import { Footer } from '../Components/Footer';
 
 function MyApp({ Component, pageProps }) {
