@@ -19,7 +19,7 @@ export const Footer = () => {
                   <font style={{ verticalAlign: 'inherit' }}>
                     <font style={{ verticalAlign: 'inherit' }}>
                       <font style={{ verticalAlign: 'inherit' }}>
-                        <font style={{ verticalAlign: 'inherit' }}> Clineca is offering a complete cosmetic surgery experience
+                        <font style={{ verticalAlign: 'inherit' }}> Away Surgery is offering a complete cosmetic surgery experience
                           focusing on beauty, safety and comfort.</font>
                       </font>
                     </font>
@@ -180,7 +180,7 @@ export const Footer = () => {
               <font style={{ verticalAlign: 'inherit' }} />
             </font>
           </font>
-        </font>© 2021 Clineca. All Right Reserved&nbsp;
+        </font>© 2021 Away Surgery. All Right Reserved&nbsp;
       </p>
     </section>
 

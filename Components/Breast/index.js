@@ -288,7 +288,7 @@ export default function Breast() {
                     <h2 className="u-align-left u-text u-text-2"> Our surgeons ask your medical history and physical examination.</h2>
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> During your online consultation, your surgeon will ask you questions about your medical history.<br />
                       <br />They will also conduct a physical examination. Your surgeon will inform you about everything you need to know before the surgery. <br />
-                      <br />Clineca will provide you with complete guidance and support before your surgery. You will have a complete and detailed list of instructions.
+                      <br />Away Surgery will provide you with complete guidance and support before your surgery. You will have a complete and detailed list of instructions.
                     </p>
                     <h4 className="u-align-left u-text u-text-4"> The Most Important Instructions</h4>
                     <div className="u-list u-list-1">
@@ -411,8 +411,8 @@ export default function Breast() {
                 <div className="u-container-style u-layout-cell u-size-29-lg u-size-29-md u-size-29-sm u-size-29-xs u-size-30-xl u-layout-cell-1">
                   <div className="u-container-layout u-valign-middle-xl u-valign-top-sm u-container-layout-1">
                     <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do After Breast Reduction Surgery?</h4>
-                    <h2 className="u-align-left u-text u-text-2"> Clineca will provide you with all the support and guidance you need.</h2>
-                    <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do after the surgery will be explained to you in detail by your surgeon and Clineca will provide you with all the support and guidance you need.<br />
+                    <h2 className="u-align-left u-text u-text-2"> Away Surgery will provide you with all the support and guidance you need.</h2>
+                    <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do after the surgery will be explained to you in detail by your surgeon and Away Surgery will provide you with all the support and guidance you need.<br />
                       <br />You will have a complete and detailed list of instructions.
                     </p>
                     <h4 className="u-align-left u-text u-text-4"> The Most Important Instructions</h4>
@@ -496,7 +496,7 @@ export default function Breast() {
       <section className="u-clearfix u-custom-color-13 u-section-8" id="sec-ad20">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-1"> What To Expect During A Recovery?</h4>
-          <h2 className="u-align-center-xs u-text u-text-2"> Clineca with you from your consultation to the very end of your recovery.</h2>
+          <h2 className="u-align-center-xs u-text u-text-2"> Away Surgery with you from your consultation to the very end of your recovery.</h2>
           <div className="u-align-center u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
               <div className="u-layout-col">
@@ -663,7 +663,7 @@ export default function Breast() {
       </section>
       <section className="u-align-center u-clearfix u-hidden-sm u-hidden-xs u-section-9" id="sec-3fbb">
         <div className="u-clearfix u-sheet u-sheet-1">
-          <h4 className="text-align-center u-align-center-xs u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> Why Clineca?</h4>
+          <h4 className="text-align-center u-align-center-xs u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"> Why Away Surgery?</h4>
           <h2 className="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-2"> From beginning to end, we inform you, guide you, serve you, and help you.</h2>
           <div className="u-container-style u-group u-group-1">
             <div className="u-container-layout u-container-layout-1">
@@ -1058,7 +1058,7 @@ export default function Breast() {
       <section className="u-align-center u-clearfix u-section-12" id="sec-0cc1">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-xl u-text-1"> Step by Step Experience for International Patients</h4>
-          <h2 className="text-align-center u-align-center-lg u-align-center-md u-align-center-xl u-align-center-xs u-text u-text-2"> Clineca believes that everything should be correct, detailed and satisfying.</h2>
+          <h2 className="text-align-center u-align-center-lg u-align-center-md u-align-center-xl u-align-center-xs u-text u-text-2"> Away Surgery believes that everything should be correct, detailed and satisfying.</h2>
           <div className="u-align-center-xs u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-list u-list-1">
             <div className="u-repeater u-repeater-1">
               <div className="u-container-style u-custom-item u-list-item u-repeater-item">
@@ -1153,7 +1153,7 @@ export default function Breast() {
                 </div>
                 <div className="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-30-lg u-size-30-xl u-layout-cell-2">
                   <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-2">
-                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
+                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Away Surgery Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming  patients! Let us make an appointment for your online consultation.</h2>
                     <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book Online Consultation</a>
                   </div>
