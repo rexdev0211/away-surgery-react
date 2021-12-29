@@ -1,6 +1,3 @@
-// import '../../styles/Home.css';
-
-import { Caresol } from "../../helpers/caresol";
 import Link from 'next/link';
 import Script from "next/script";
 
@@ -318,7 +315,7 @@ export default function Home() {
                   <div className="u-layout-col">
                     <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                       <div className="u-container-layout u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-container-layout-2">
-                        <h4 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-default u-text-1"> Why Away Surgery?</h4>
+                        <h4 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-default u-text-1"> Why Clineca?</h4>
                         <h2 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-2"> We’re not only cosmetic surgery but a complete experience.</h2>
                       </div>
                     </div>
@@ -374,7 +371,7 @@ export default function Home() {
                 <div className="u-align-center-xs u-container-style u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
                   <div className="u-container-layout u-valign-middle u-container-layout-1">
                     <h4 className="u-align-center-sm u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-default-md u-text-default-sm u-text-default-xs u-text-1"> About Us</h4>
-                    <h2 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Away Surgery is offering a complete cosmetic surgery experience focusing on beauty, safety and comfort.</h2>
+                    <h2 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Clineca is offering a complete cosmetic surgery experience focusing on beauty, safety and comfort.</h2>
                     <a href="contact" className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-palette-1-base u-btn-1">Learn More&nbsp;<span style={{ fontWeight: 400 }} />
                     </a>
                   </div>
@@ -571,7 +568,7 @@ export default function Home() {
                 </div>
                 <div className="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-30-lg u-size-30-xl u-layout-cell-2">
                   <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-2">
-                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Away Surgery Consultaion</h4>
+                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming  patients! Let us make an appointment for your online consultation.</h2>
                     <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book Online Consultation</a>
                   </div>
