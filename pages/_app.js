@@ -27,10 +27,11 @@ function MyApp({ Component, pageProps }) {
         <script src="/js/jquery.js" defer=""></script>
         <script src="/js/custompage.js" defer=""></script>
 
-        {/* <script src="/js/talkshawk.js" defer=""></script> */}
+        <script src="/js/talkshawk.js" defer=""></script>
 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BLG34TBPY"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LDJ8QFFW7Y"></script>
         <script src="/js/googleAnalytics.js" defer=""></script>
+
 
 
 

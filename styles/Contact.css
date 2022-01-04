@@ -12,7 +12,7 @@
 
 .contact .u-section-1 .u-image-1 {
   min-height: 791px;
-  background-image: url("/images/img_96.png");
+  background-image: url("/images/img_96.jpeg");
   background-position: 50% 50%;
 }
 
@@ -361,3 +361,7 @@
 .text-align-center {
   text-align: center !important
 }
+
+.tf-v1-widget {
+  background: #1a4a67;
+  }

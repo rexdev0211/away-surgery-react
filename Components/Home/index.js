@@ -5,32 +5,6 @@ export default function Home() {
 
   return (
     <div className="custom-home">
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-2BLG34TBPY"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){window.dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-2BLG34TBPY');
-        `}
-      </Script>
-
-      <Script id="the_talkto_id">
-        {`
-             var Tawk_API=Tawk_API||{ }, Tawk_LoadStart=new Date();
-             (function(){
-             var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-             s1.async=true;
-             s1.src='https://embed.tawk.to/5f440bdacc6a6a5947ae6467/default';
-             s1.charset='UTF-8';
-             s1.setAttribute('crossorigin','*');
-             s0.parentNode.insertBefore(s1,s0);
-             })();
-        `}
-      </Script>
       <section className="u-clearfix u-hidden-lg u-hidden-xl u-section-1" id="sec-3214">
         <div className="u-clearfix u-sheet u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
@@ -40,7 +14,7 @@ export default function Home() {
                   <div className="u-container-layout u-valign-middle-sm u-valign-middle-xs u-container-layout-1">
                     <h4 className="u-text u-text-custom-color-3 u-text-1"> Improving Your Looks, Changing Life</h4>
                     <h1 className="u-align-left u-text u-text-2"> cosmetic surgery experience that focuses on beauty, safety, and comfort</h1>
-                    <a className="u-align-left u-border-none u-btn u-button-style u-hover-palette-2-dark-3 u-palette-1-base u-btn-1"> Book Online Consultation</a>
+                    <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-2-dark-3 u-palette-1-base u-btn-1"> Book Online Consultation</a>
                   </div>
                 </div>
                 <div className="u-container-style u-layout-cell u-right-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-size-xs-60 u-layout-cell-2" >
@@ -88,12 +62,12 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <img className="u-align-center-md u-align-center-sm u-align-center-xs u-expanded-width-sm u-expanded-width-xs u-hidden-lg u-hidden-xl u-image u-image-contain u-image-default u-image-8" src="images/new_img_15.png" data-image-width={1408} data-image-height={1452} />
+          <img className="u-align-center-md u-align-center-sm u-align-center-xs u-expanded-width-sm u-expanded-width-xs u-hidden-lg u-hidden-xl u-image u-image-contain u-image-default u-image-8" src="images/new_img_15.jpeg" data-image-width={1408} data-image-height={1452} />
         </div>
       </section>
       <section className="u-clearfix u-hidden-md u-hidden-sm u-hidden-xs u-section-2" id="sec-1b58">
         <div className="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
-          <div data-interval={5000} data-u-ride="carousel" className="u-carousel u-expanded-width u-slider u-slider-1" id="carousel-6f90">
+          <div data-interval={2000} data-u-ride="carousel" className="u-carousel u-expanded-width u-slider u-slider-1" id="carousel-6f90">
             <ol className="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
               <li data-u-target="#carousel-6f90" className="u-active u-grey-30" data-u-slide-to={0} />
               <li data-u-target="#carousel-6f90" className="u-grey-30" data-u-slide-to={1} />
@@ -315,7 +289,7 @@ export default function Home() {
                   <div className="u-layout-col">
                     <div className="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                       <div className="u-container-layout u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-container-layout-2">
-                        <h4 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-default u-text-1"> Why Clineca?</h4>
+                        <h4 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-custom-color-3 u-text-default u-text-1"> Why Away Surgery?</h4>
                         <h2 className="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-2"> We’re not only cosmetic surgery but a complete experience.</h2>
                       </div>
                     </div>
@@ -371,7 +345,7 @@ export default function Home() {
                 <div className="u-align-center-xs u-container-style u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1">
                   <div className="u-container-layout u-valign-middle u-container-layout-1">
                     <h4 className="u-align-center-sm u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-custom-color-3 u-text-default-md u-text-default-sm u-text-default-xs u-text-1"> About Us</h4>
-                    <h2 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Clineca is offering a complete cosmetic surgery experience focusing on beauty, safety and comfort.</h2>
+                    <h2 className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-text u-text-2"> Away Surgery is offering a complete cosmetic surgery experience focusing on beauty, safety and comfort.</h2>
                     <a href="contact" className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-palette-1-base u-btn-1">Learn More&nbsp;<span style={{ fontWeight: 400 }} />
                     </a>
                   </div>
@@ -568,7 +542,7 @@ export default function Home() {
                 </div>
                 <div className="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-30-lg u-size-30-xl u-layout-cell-2">
                   <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-2">
-                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
+                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Away Surgery Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming  patients! Let us make an appointment for your online consultation.</h2>
                     <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book Online Consultation</a>
                   </div>

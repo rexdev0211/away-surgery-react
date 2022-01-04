@@ -9,7 +9,7 @@ export const Caresol = ({ children }) => {
       <div className="u-clearfix caresol-section" id="carousel_2c60">
         <div className="u-clearfix u-sheet ">
 
-          <div data-interval={5000} data-u-ride="carousel" className="br-section5-3grid u-align-center u-carousel u-slider u-slider-1" id="carousel-b57a">
+          <div data-interval={2000} data-u-ride="carousel" className="br-section5-3grid u-align-center u-carousel u-slider u-slider-1" id="carousel-b57a">
             <ol className="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
               <li data-u-target="#carousel-1143" className="u-active u-grey-30 u-shape-circle" data-u-slide-to={0} style={{ width: 10, height: 10 }} />
               <li data-u-target="#carousel-1143" className="u-grey-30 u-shape-circle" data-u-slide-to={1} style={{ width: 10, height: 10 }} />

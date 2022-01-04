@@ -6,32 +6,6 @@ export const BrowLift = () => {
 
 
     <div className="browlift">
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-2BLG34TBPY"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){window.dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-2BLG34TBPY');
-      `}
-      </Script>
-
-      <Script id="the_talkto_id">
-        {`
-           var Tawk_API=Tawk_API||{ }, Tawk_LoadStart=new Date();
-           (function(){
-           var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-           s1.async=true;
-           s1.src='https://embed.tawk.to/5f440bdacc6a6a5947ae6467/default';
-           s1.charset='UTF-8';
-           s1.setAttribute('crossorigin','*');
-           s0.parentNode.insertBefore(s1,s0);
-           })();
-      `}
-      </Script>
       <section className="br-section1 u-clearfix u-section-1" id="sec-9a24">
         <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
           <div className="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
@@ -84,7 +58,7 @@ export const BrowLift = () => {
                       <br />Tens of thousands of people have brow lift each year.<br />
                       <br />If you have concerns about having a brow lift, don’t be afraid! You are not alone, and we are here
                       to help you throughout your journey. <br />
-                      <br />${`Keep in mind that brow lift results won't last forever. As you age your facial skin might begin to
+                      <br />{`Keep in mind that brow lift results won't last forever. As you age your facial skin might begin to
                       droop again. Sun damage also can age your skin.`}<br />
                     </p>
                     <a href="contact" data-page-id={66991886} className="u-align-left u-border-none u-btn u-button-style u-hover-none u-palette-1-base u-btn-1">Learn
@@ -291,7 +265,7 @@ export const BrowLift = () => {
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> During your online
                       consultation, your surgeon will ask you questions about your medical history. <br />
                       <br />They will also conduct a physical examination. Your surgeon will inform you about everything you
-                      need to know before the surgery. Clineca will provide you with complete guidance and support before
+                      need to know before the surgery. Away Surgery will provide you with complete guidance and support before
                       your surgery.<br />
                       <br />You will have a complete and detailed list of instructions.
                     </p>
@@ -340,7 +314,7 @@ export const BrowLift = () => {
         <div className="u-clearfix u-sheet u-sheet-1">
           <img className="u-hidden-xs u-image u-image-contain u-image-default u-image-1" src="images/img_31.svg" data-image-width={127} data-image-height={349} />
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">
-            How is a Hair Transplant Done?</h4>
+            How is a Brow Lift Done?</h4>
           <h2 className="u-align-center-xs u-text u-text-2"> Complex surgery customized according to needs and wishes of the
             patient.</h2>
           <div className="u-align-center u-clearfix u-expanded-width u-gutter-10 u-layout-wrap u-layout-wrap-1">
@@ -384,7 +358,7 @@ export const BrowLift = () => {
                     </div>
                     <div className="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-4">
                       <div className="u-container-layout u-container-layout-4">
-                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-3" src="images/img_90.png" data-image-width={1128} data-image-height={900} />
+                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-3" src="images/img_90.jpeg" data-image-width={1128} data-image-height={900} />
                       </div>
                     </div>
                   </div>
@@ -444,7 +418,7 @@ export const BrowLift = () => {
                     </div>
                     <div className="u-container-style u-layout-cell u-right-cell u-shape-rectangle u-size-30 u-layout-cell-8">
                       <div className="u-container-layout u-container-layout-8">
-                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-5" src="images/img_92.png" data-image-width={1128} data-image-height={1188} />
+                        <img className="u-absolute-hcenter-lg u-absolute-hcenter-md u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded u-image u-image-contain u-image-default u-image-5" src="images/img_92.jpeg" data-image-width={1128} data-image-height={1188} />
                       </div>
                     </div>
                   </div>
@@ -463,10 +437,10 @@ export const BrowLift = () => {
                   <div className="u-container-layout u-valign-middle-xl u-valign-top-sm u-container-layout-1">
                     <h4 className="text-align u-align-left u-text u-text-custom-color-3 u-text-1"> What to Do After the Brow
                       Lift?</h4>
-                    <h2 className="u-align-left u-text u-text-2"> Clineca will provide you with all the support and guidance you
+                    <h2 className="u-align-left u-text u-text-2"> Away Surgery will provide you with all the support and guidance you
                       need.</h2>
                     <p className="u-align-left u-text u-text-custom-color-5 u-text-default-xs u-text-3"> What you need to do
-                      after the surgery will be explained to you in detail by your surgeon and Clineca will provide you with
+                      after the surgery will be explained to you in detail by your surgeon and Away Surgery will provide you with
                       all the support and guidance you need.<br />
                       <br />You will have a complete and detailed list of instructions.
                     </p>
@@ -536,7 +510,7 @@ export const BrowLift = () => {
                         <img className="u-image u-image-default u-preserve-proportions u-image-9" src="images/new_img_2.png" data-image-width={194} data-image-height={194} />
                       </div>
                     </div>
-                    <img className="u-absolute-hcenter-sm u-absolute-hcenter-xs u-align-center-sm u-align-center-xs u-expanded-height-sm u-expanded-height-xs u-image u-image-default u-image-10" src="images/new_img_13.png" data-image-width={1159} data-image-height={1600} />
+                    <img className="u-absolute-hcenter-sm u-absolute-hcenter-xs u-align-center-sm u-align-center-xs u-expanded-height-sm u-expanded-height-xs u-image u-image-default u-image-10" src="images/new_img_13.jpeg" data-image-width={1159} data-image-height={1600} />
                   </div>
                 </div>
               </div>
@@ -548,7 +522,7 @@ export const BrowLift = () => {
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-1"> What To Expect During A
             Recovery?</h4>
-          <h2 className="u-align-center-xs u-text u-text-2"> Clineca with you from your consultation to the very end of your
+          <h2 className="u-align-center-xs u-text u-text-2"> Away Surgery with you from your consultation to the very end of your
             recovery.</h2>
           <div className="u-align-center u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div className="u-layout">
@@ -742,7 +716,7 @@ export const BrowLift = () => {
       <section className="u-align-center u-clearfix u-hidden-sm u-hidden-xs u-section-9" id="sec-3fbb">
         <div className="u-clearfix u-sheet u-sheet-1">
           <h4 className="text-align-center u-align-center-xs u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">
-            Why Clineca?</h4>
+            Why Away Surgery?</h4>
           <h2 className="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-2"> From beginning to end, we
             inform you, guide you, serve you, and help you.</h2>
           <div className="u-container-style u-group u-group-1">
@@ -934,7 +908,7 @@ export const BrowLift = () => {
                 <div className="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-7">
                   <div className="u-container-style u-expanded-width-xs u-group u-group-4">
                     <div className="u-container-layout u-container-layout-8">
-                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-4" src="images/img_1102.png" data-image-width={157} data-image-height={160} />
+                      <img className="u-align-left u-hover-feature u-image u-image-contain u-image-default u-preserve-proportions u-image-4" src="images/img_1101.png" data-image-width={157} data-image-height={160} />
                       <h4 className="u-align-left u-custom-item u-text u-text-default u-text-7"> 7/24 Support</h4>
                       <p className="u-align-left u-text u-text-default-xl u-text-8"> You can contact our agents 7 days 24 hours
                         for your questions or support.</p>
@@ -1232,7 +1206,7 @@ export const BrowLift = () => {
           <h4 className="text-align-center u-align-center u-text u-text-custom-color-3 u-text-default-lg u-text-default-xl u-text-1">
             Step by Step Experience for International Patients</h4>
           <h2 className="text-align-center u-align-center-lg u-align-center-md u-align-center-xl u-align-center-xs u-text u-text-2">
-            Clineca believes that everything should be correct, detailed and satisfying.</h2>
+            Away Surgery believes that everything should be correct, detailed and satisfying.</h2>
           <div className="u-align-center-xs u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-list u-list-1">
             <div className="u-repeater u-repeater-1">
               <div className="u-container-style u-custom-item u-list-item u-repeater-item">
@@ -1266,7 +1240,7 @@ export const BrowLift = () => {
                   <h4 className="u-align-left u-custom-item u-text u-text-custom-color-3 u-text-default u-text-10"> Planning
                   </h4>
                   <div className="u-align-center u-border-3 u-border-custom-color-3 u-line u-line-horizontal u-line-3" />
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-11">${` We'll plan your whole
+                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-11">{` We'll plan your whole
                     journey, including the date of your surgery and where you'll stay at while you’re in Istanbul. We'll
                     inform you about everything you need to know from what to have in your suitcase to what to do before
                     your procedure.`}</p>
@@ -1277,7 +1251,7 @@ export const BrowLift = () => {
                   <h4 className="u-align-right u-custom-item u-text u-text-custom-color-3 u-text-default u-text-12">04</h4>
                   <h4 className="u-align-left u-custom-item u-text u-text-custom-color-3 u-text-default u-text-13"> Landing</h4>
                   <div className="u-align-center u-border-3 u-border-custom-color-3 u-line u-line-horizontal u-line-4" />
-                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-14"> ${`Our VIP transportation
+                  <p className="u-align-left u-custom-item u-text u-text-custom-color-5 u-text-14"> {`Our VIP transportation
                     vehicle will be ready at the airport before you land. Driver will be waiting for you. We'll drive you
                     the hospital. At the hospital, we will perform required blood tests and the COVID test. Then, we will
                     drive you your hotel`}.</p>
@@ -1361,7 +1335,7 @@ export const BrowLift = () => {
                 </div>
                 <div className="u-container-style u-layout-cell u-size-29-md u-size-29-sm u-size-29-xs u-size-30-lg u-size-30-xl u-layout-cell-2">
                   <div className="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-2">
-                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Clineca Consultaion</h4>
+                    <h4 className="u-align-left u-text u-text-custom-color-3 u-text-1"> Away Surgery Consultaion</h4>
                     <h2 className="u-align-left u-text u-text-2"> We’re open and welcoming patients! Let us make an appointment
                       for your online consultation.</h2>
                     <a href="contact" className="u-align-left u-border-none u-btn u-button-style u-hover-palette-1-dark-3 u-white u-btn-1"> Book

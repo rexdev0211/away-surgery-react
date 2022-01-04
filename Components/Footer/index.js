@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export const Footer = () => {
   return (
     <section className="u-clearfix mz-footer" id="sec-9920">
@@ -19,7 +21,7 @@ export const Footer = () => {
                   <font style={{ verticalAlign: 'inherit' }}>
                     <font style={{ verticalAlign: 'inherit' }}>
                       <font style={{ verticalAlign: 'inherit' }}>
-                        <font style={{ verticalAlign: 'inherit' }}> Clineca is offering a complete cosmetic surgery experience
+                        <font style={{ verticalAlign: 'inherit' }}> Away Surgery is offering a complete cosmetic surgery experience
                           focusing on beauty, safety and comfort.</font>
                       </font>
                     </font>
@@ -162,7 +164,20 @@ export const Footer = () => {
                   <font style={{ verticalAlign: 'inherit' }}>
                     <font style={{ verticalAlign: 'inherit' }}>
                       <font style={{ verticalAlign: 'inherit' }}>
-                        <font style={{ verticalAlign: 'inherit' }}> Feedback Form</font>
+                        <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdHuYe7EcV2o9EQILllDyXB_wUL3YWoZIqH78CM5pSrHzAEfg/viewform?usp=sf_link">
+                          <a target="_blank" style={{ verticalAlign: 'inherit' }}> Feedback Form</a>
+                        </Link>
+                      </font>
+                    </font>
+                  </font>
+                </p>
+                <p className="u-custom-font u-font-lato u-small-text u-text u-text-variant u-text-16">
+                  <font style={{ verticalAlign: 'inherit' }}>
+                    <font style={{ verticalAlign: 'inherit' }}>
+                      <font style={{ verticalAlign: 'inherit' }}>
+                        <Link href="https://g.page/r/CSActhRVulGTEAg/review">
+                          <a target="_blank" style={{ verticalAlign: 'inherit' }}> Rate The Experience</a>
+                        </Link>
                       </font>
                     </font>
                   </font>
@@ -180,7 +195,7 @@ export const Footer = () => {
               <font style={{ verticalAlign: 'inherit' }} />
             </font>
           </font>
-        </font>© 2021 Clineca. All Right Reserved&nbsp;
+        </font>© 2021 Away Surgery. All Right Reserved&nbsp;
       </p>
     </section>
 

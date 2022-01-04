@@ -1,0 +1,25 @@
+{
+  "apps": [
+      {
+          "name": "Away Surgery",
+          "script": "npm",
+          "args": "run start",
+          "env_production": {
+              "NODE_ENV": "production"
+          }
+      }
+  ],
+  "deploy": {
+      "production": {
+          "user": "ghost-user",
+          "host": [
+              "134.122.111.36"
+          ],
+          "ref": "origin/frontend",
+          "repo": "git@github.com:wisdomcsharp/awaysurgery.git",
+          "path": "/var/workspace/awaysurgery",
+          "key": "~/Desktop/clearplastic.pem",
+          "post-deploy": "npm install && pm2 reload ecosystem.json --env production"
+      }
+  }
+}
