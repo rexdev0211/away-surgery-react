@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## i am worrid about payment Bro.. please Reply on What's app and release my payment, as we discussed your Worked is completed.you can say that when you are back from Parents Home then you will release the mony.but still i am waiting after 10 days
+## You are the Cheater,as we discussed your Worked is completed.you can say that when you are back from Parents Home then you will release the mony.but still i am waiting after 50 days, o cheater.....
 
 First, run the development server:
 
